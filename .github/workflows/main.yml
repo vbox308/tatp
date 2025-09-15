@@ -3,6 +3,7 @@ name: Run Python Script and Commit Output
 on:
   schedule:
     - cron: '15 0 * * *'  # Runs daily at 00:15 UTC
+    - cron: '15 12 * * *'
   workflow_dispatch:
 
 jobs:
