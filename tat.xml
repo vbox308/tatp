@@ -484,6 +484,10 @@
 		<display-name>Gemini Movies HD</display-name>
 		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11439-j9jqvzug-v1/imageContent-11439-j9jqvzug-m1.jpg"></icon>
 	</channel>
+	<channel id="ts957">
+		<display-name>Star Maa Movies HD</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66768-kuwalqkg-v1/imageContent-66768-kuwalqkg-m1.jpg"></icon>
+	</channel>
 	<channel id="ts387">
 		<display-name>Star Maa Movies HD</display-name>
 		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18347-jcqpx848-v1/imageContent-18347-jcqpx848-m1.JPG"></icon>
@@ -1596,7 +1600,7 @@
 		<title>Jagriti - Ek Nayi Subah</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p31178751_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917180000 +0000" stop="20250917190000 +0000" channel="ts557" id="83863854">
+	<programme start="20250917180000 +0000" stop="20250917183200 +0000" channel="ts557" id="83863854">
 		<title>Saru</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p31005413_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
@@ -1628,9 +1632,9 @@
 		<title>Laughter Chefs Unlimited Entertainment</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p27615879_b_h11_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917023300 +0000" stop="20250917034200 +0000" channel="ts52" id="84084586">
-		<title>Laughter Chefs Unlimited Entertainment</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p27615885_b_h11_aa.jpg?lock=1280x720"></icon>
+	<programme start="20250917023300 +0000" stop="20250917034200 +0000" channel="ts52" id="84090355">
+		<title>Laughter Chef</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p27449202_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250917034200 +0000" stop="20250917045200 +0000" channel="ts52" id="84084584">
 		<title>Laughter Chefs Unlimited Entertainment</title>
@@ -2948,7 +2952,7 @@
 		<title>Kanguva</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p28630654_v_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917172100 +0000" stop="20250917203000 +0000" channel="ts503" id="83977754">
+	<programme start="20250917172100 +0000" stop="20250917194100 +0000" channel="ts503" id="83977754">
 		<title>Bruce Lee - The Fighter</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p12203326_b_h8_ah.jpg?lock=1280x720"></icon>
 	</programme>
@@ -2984,7 +2988,7 @@
 		<title>Andaaz</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p81335_b_h10_ac.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917114200 +0000" stop="20250917142600 +0000" channel="ts123" id="84085059">
+	<programme start="20250917114200 +0000" stop="20250917142600 +0000" channel="ts123" id="84095424">
 		<title>Mahaabali</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p10931889_b_h10_ad.jpg?lock=1280x720"></icon>
 	</programme>
@@ -2992,7 +2996,7 @@
 		<title>Kanguva</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p28630654_v_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917172400 +0000" stop="20250917203000 +0000" channel="ts123" id="83977832">
+	<programme start="20250917172400 +0000" stop="20250917195600 +0000" channel="ts123" id="83977832">
 		<title>Acharya</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p22002829_b_h8_ad.jpg?lock=1280x720"></icon>
 	</programme>
@@ -3112,7 +3116,7 @@
 		<title>Avtaar</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p7810647_b_h10_ad.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917170900 +0000" stop="20250917200000 +0000" channel="ts175" id="83866803">
+	<programme start="20250917170900 +0000" stop="20250917194100 +0000" channel="ts175" id="83866803">
 		<title>Kyon Ki...? It's Fate</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p28078216_v_h11_aa.jpg?lock=1280x720"></icon>
 	</programme>
@@ -3148,9 +3152,9 @@
 		<title>Phandebaaz</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p26637025_v_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917162400 +0000" stop="20250917215600 +0000" channel="ts727" id="83863308">
-		<title>Yeh Vada Raha</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p128220_v_h8_aa.jpg?lock=1280x720"></icon>
+	<programme start="20250917162400 +0000" stop="20250917192300 +0000" channel="ts727" id="84096249">
+		<title>Yeh Vaada Raha</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p8158831_v_h11_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250916183000 +0000" stop="20250916213000 +0000" channel="ts7" id="83848216">
 		<title>Movie</title>
@@ -3553,8 +3557,8 @@
 		<icon src="http://ttpl.tmsimg.com/assets/p26562429_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250917023000 +0000" stop="20250917113000 +0000" channel="ts223" id="84083901">
-		<title>Khel Mahakumbh</title>
-		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"></icon>
+		<title>Live - Namo Khel Mahakumbh 2025</title>
+		<icon src="https://dvdh7g0f0hwck.cloudfront.net/assets/images/category/ea1af3ae-2258-4661-83a1-dd830e93e37a_Poster.png"></icon>
 	</programme>
 	<programme start="20250917113000 +0000" stop="20250917123000 +0000" channel="ts223" id="84036696">
 		<title>Badminton Boys, Doubles Final; Khelo India Youth Games</title>
@@ -4684,13 +4688,17 @@
 		<title>Live - One Day International: India W vs Australia W; Cricket Post</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p27484998_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917163000 +0000" stop="20250917170000 +0000" channel="ts1033" id="83860034">
+	<programme start="20250917163000 +0000" stop="20250917164500 +0000" channel="ts1033" id="84131176">
+		<title>Hum Hongey Kamyab-Believe in Blue</title>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/D0EB3CB99157302EBF3D73D92A95143D4F5749E9E.jpg"></icon>
+	</programme>
+	<programme start="20250917164500 +0000" stop="20250917171500 +0000" channel="ts1033" id="84131175">
 		<title>2nd ODI: India v Australia; Women's One-Day International Cricket</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p11931627_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917170000 +0000" stop="20250917173000 +0000" channel="ts1033" id="83860037">
-		<title>ICC Champions Trophy 2025 India vs New Zealand, Final; One-Day</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p8509066_b_h8_ae.jpg?lock=1280x720"></icon>
+	<programme start="20250917171500 +0000" stop="20250917173000 +0000" channel="ts1033" id="84131177">
+		<title>ICC World T20I 2024 - India vs Pakistan; T20 Cricket</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p8414564_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250917173000 +0000" stop="20250917174500 +0000" channel="ts1033" id="83860071">
 		<title>Telugu Titans vs Dabang Delhi K.C, 37th Match; Pro Kabaddi Highlights</title>
@@ -4868,13 +4876,17 @@
 		<title>Live - One Day International: India W vs Australia W; Cricket Post</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p27484998_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917163000 +0000" stop="20250917170000 +0000" channel="ts980" id="83865930">
+	<programme start="20250917163000 +0000" stop="20250917164500 +0000" channel="ts980" id="84131163">
+		<title>Hum Hongey Kamyab-Believe in Blue</title>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/D0EB3CB99157302EBF3D73D92A95143D4F5749E9E.jpg"></icon>
+	</programme>
+	<programme start="20250917164500 +0000" stop="20250917171500 +0000" channel="ts980" id="84131164">
 		<title>2nd ODI: India v Australia; Women's One-Day International Cricket</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p11931627_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917170000 +0000" stop="20250917173000 +0000" channel="ts980" id="83865904">
-		<title>ICC Champions Trophy 2025 India vs New Zealand, Final; One-Day</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p8509066_b_h8_ae.jpg?lock=1280x720"></icon>
+	<programme start="20250917171500 +0000" stop="20250917173000 +0000" channel="ts980" id="84131165">
+		<title>ICC World T20I 2024 - India vs Pakistan; T20 Cricket</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p8414564_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250917173000 +0000" stop="20250917174500 +0000" channel="ts980" id="83865917">
 		<title>Telugu Titans vs Dabang Delhi K.C, 37th Match; Pro Kabaddi Highlights</title>
@@ -8144,17 +8156,17 @@
 		<title>DD India Live</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p25454169_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917120000 +0000" stop="20250917123000 +0000" channel="ts324" id="84084624">
-		<title>DD India Live</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p25454169_b_h8_ab.jpg?lock=1280x720"></icon>
+	<programme start="20250917120000 +0000" stop="20250917123000 +0000" channel="ts324" id="84131170">
+		<title>PM Modi's Vision India &amp; The World</title>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"></icon>
 	</programme>
 	<programme start="20250917123000 +0000" stop="20250917130000 +0000" channel="ts324" id="84084621">
 		<title>DD India Live</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p25454169_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917130000 +0000" stop="20250917133000 +0000" channel="ts324" id="83850355">
-		<title>Defence Dynamics</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p27682276_b_h10_aa.jpg?lock=1280x720"></icon>
+	<programme start="20250917130000 +0000" stop="20250917133000 +0000" channel="ts324" id="84084624">
+		<title>DD India Live</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p25454169_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250917133000 +0000" stop="20250917140000 +0000" channel="ts324" id="83850384">
 		<title>Express News</title>
@@ -8164,15 +8176,19 @@
 		<title>DD India Live</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p25454169_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917143000 +0000" stop="20250917153000 +0000" channel="ts324" id="84084629">
-		<title>Narendra Modi- Swa Se Samagra Tak</title>
+	<programme start="20250917143000 +0000" stop="20250917150000 +0000" channel="ts324" id="83850357">
+		<title>Defence Dynamics</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p27682276_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917150000 +0000" stop="20250917153000 +0000" channel="ts324" id="84131171">
+		<title>PM Modi's Vision India &amp; The World</title>
 		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"></icon>
 	</programme>
 	<programme start="20250917153000 +0000" stop="20250917163000 +0000" channel="ts324" id="83850377">
 		<title>DD India News Hour</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p25410278_b_h8_ad.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917163000 +0000" stop="20250917170000 +0000" channel="ts324" id="83850357">
+	<programme start="20250917163000 +0000" stop="20250917170000 +0000" channel="ts324" id="83850355">
 		<title>Defence Dynamics</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p27682276_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
@@ -10400,95 +10416,91 @@
 		<title>Man vs. Wild</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917003000 +0000" stop="20250917012300 +0000" channel="ts341" id="83851017">
-		<title>River Monsters</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p197719_b_h10_ap.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917012300 +0000" stop="20250917021100 +0000" channel="ts341" id="83851024">
-		<title>Dual Survival</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p8078178_b_h10_as.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917021100 +0000" stop="20250917030500 +0000" channel="ts341" id="83851000">
-		<title>Ed Stafford: First Man Out</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p16283277_b_h8_ar.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917030500 +0000" stop="20250917035800 +0000" channel="ts341" id="83851003">
-		<title>Dual Survival</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p8078178_b_h10_as.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917035800 +0000" stop="20250917045200 +0000" channel="ts341" id="83851007">
+	<programme start="20250917003000 +0000" stop="20250917011900 +0000" channel="ts341" id="83851007">
 		<title>Man vs. Wild</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917045200 +0000" stop="20250917054300 +0000" channel="ts341" id="83851026">
-		<title>You Have Been Warned Again</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p9870858_b_h10_bu.jpg?lock=1280x720"></icon>
+	<programme start="20250917011900 +0000" stop="20250917020400 +0000" channel="ts341" id="84090445">
+		<title>Gold Rush</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p8825082_b_h8_ak.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917054300 +0000" stop="20250917063700 +0000" channel="ts341" id="83851010">
-		<title>Hidden Frontiers Arabia with Reza Pakravan</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p25266839_b_h10_ab.jpg?lock=1280x720"></icon>
+	<programme start="20250917020400 +0000" stop="20250917025000 +0000" channel="ts341" id="84090441">
+		<title>Fritz Meinecke - Facing the Unknown</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p25143994_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917063700 +0000" stop="20250917072500 +0000" channel="ts341" id="83851012">
-		<title>I Survived Bear Grylls</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p24455643_b_h10_aa.jpg?lock=1280x720"></icon>
+	<programme start="20250917025000 +0000" stop="20250917034000 +0000" channel="ts341" id="84090440">
+		<title>Dual Survival Mexico</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28071784_b_h8_ad.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917072500 +0000" stop="20250917081800 +0000" channel="ts341" id="83851009">
+	<programme start="20250917034000 +0000" stop="20250917043200 +0000" channel="ts341" id="83851011">
+		<title>Man vs. Wild</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917043200 +0000" stop="20250917052100 +0000" channel="ts341" id="83851009">
 		<title>Man, Woman, Wild</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p8142867_b_h10_an.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917081800 +0000" stop="20250917084500 +0000" channel="ts341" id="83851028">
-		<title>Food Factory</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p9403610_b_h10_bj.jpg?lock=1280x720"></icon>
+	<programme start="20250917052100 +0000" stop="20250917060900 +0000" channel="ts341" id="84090447">
+		<title>Expedition X</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p17865138_b_h8_bt.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917084500 +0000" stop="20250917091100 +0000" channel="ts341" id="83851022">
-		<title>How It's Made</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p185509_b_h8_az.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917091100 +0000" stop="20250917100300 +0000" channel="ts341" id="83851011">
+	<programme start="20250917060900 +0000" stop="20250917070200 +0000" channel="ts341" id="83851004">
 		<title>Man vs. Wild</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917100300 +0000" stop="20250917104900 +0000" channel="ts341" id="83851004">
+	<programme start="20250917070200 +0000" stop="20250917075000 +0000" channel="ts341" id="83851014">
 		<title>Man vs. Wild</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917104900 +0000" stop="20250917114100 +0000" channel="ts341" id="83851019">
+	<programme start="20250917075000 +0000" stop="20250917084200 +0000" channel="ts341" id="84090438">
+		<title>Otto Bulletproof - Facing the Unknown</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28785145_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917084200 +0000" stop="20250917093100 +0000" channel="ts341" id="84090439">
+		<title>Marooned With Ed Stafford</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p10722363_b_h8_ar.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917093100 +0000" stop="20250917102000 +0000" channel="ts341" id="83851025">
+		<title>Man vs. Wild</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917102000 +0000" stop="20250917110900 +0000" channel="ts341" id="84090437">
+		<title>Dual Survival Colombia</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p12427473_b_h11_ac.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917110900 +0000" stop="20250917120400 +0000" channel="ts341" id="84090442">
+		<title>Dual Survival Mexico</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28071784_b_h8_ad.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917120400 +0000" stop="20250917125600 +0000" channel="ts341" id="83851016">
+		<title>Man vs. Wild</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917125600 +0000" stop="20250917135000 +0000" channel="ts341" id="84090448">
+		<title>Man vs. Wild</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917135000 +0000" stop="20250917144300 +0000" channel="ts341" id="84090446">
+		<title>Marooned With Ed Stafford</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p10722363_b_h8_ar.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917144300 +0000" stop="20250917153900 +0000" channel="ts341" id="84090443">
+		<title>Man vs. Wild</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917153900 +0000" stop="20250917162800 +0000" channel="ts341" id="83851019">
 		<title>Man, Woman, Wild</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p8142867_b_h10_an.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917114100 +0000" stop="20250917123200 +0000" channel="ts341" id="83851015">
-		<title>Running Wild With Bear Grylls</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p10860447_b_h10_bb.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917123200 +0000" stop="20250917132100 +0000" channel="ts341" id="83851014">
-		<title>Man vs. Wild</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917132100 +0000" stop="20250917142100 +0000" channel="ts341" id="83851027">
-		<title>Master of Arms</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p15612909_b_h10_ab.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917142100 +0000" stop="20250917151500 +0000" channel="ts341" id="83851025">
-		<title>Man vs. Wild</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917151500 +0000" stop="20250917160900 +0000" channel="ts341" id="83851005">
-		<title>Expedition Unknown With Josh Gates</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p11308404_b_h10_ca.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917160900 +0000" stop="20250917170100 +0000" channel="ts341" id="83851016">
-		<title>Man vs. Wild</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p185311_b_h10_aa.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917170100 +0000" stop="20250917171900 +0000" channel="ts341" id="83851008">
-		<title>Decoding Disasters</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p26788369_b_h10_aa.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250917171900 +0000" stop="20250917180900 +0000" channel="ts341" id="83851006">
+	<programme start="20250917162800 +0000" stop="20250917171800 +0000" channel="ts341" id="83851006">
 		<title>Naked and Afraid</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p9974211_b_h8_ae.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917180900 +0000" stop="20250917185400 +0000" channel="ts341" id="83851013">
+	<programme start="20250917171800 +0000" stop="20250917180700 +0000" channel="ts341" id="83851013">
+		<title>Naked and Afraid</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p9974211_b_h8_ae.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917180700 +0000" stop="20250917185300 +0000" channel="ts341" id="84090444">
 		<title>Naked and Afraid</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p9974211_b_h8_ae.jpg?lock=1280x720"></icon>
 	</programme>
@@ -10508,97 +10520,97 @@
 		<title>Chasing the Rains</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p23382327_b_h8_aj.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250916224800 +0000" stop="20250916233800 +0000" channel="ts287" id="84036487">
+	<programme start="20250916224800 +0000" stop="20250916233800 +0000" channel="ts287" id="84131157">
 		<title>Alpha</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p19849815_b_h8_aa.jpg?lock=1280x720"></icon>
+		<icon src="http://ttpl.tmsimg.com/assets/p28726728_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250916233800 +0000" stop="20250917003000 +0000" channel="ts287" id="84036482">
 		<title>Chasing the Rains</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p23382327_b_h8_aj.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917003000 +0000" stop="20250917012500 +0000" channel="ts287" id="83847451">
-		<title>Just Animals</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p17555944_b_h8_ao.jpg?lock=1280x720"></icon>
+	<programme start="20250917003000 +0000" stop="20250917011600 +0000" channel="ts287" id="84131159">
+		<title>Alpha</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28726728_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917012500 +0000" stop="20250917022000 +0000" channel="ts287" id="83847452">
-		<title>The Zoo</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p13698268_b_h8_bk.jpg?lock=1280x720"></icon>
+	<programme start="20250917011600 +0000" stop="20250917020100 +0000" channel="ts287" id="84090145">
+		<title>The Americas</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p27691411_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917022000 +0000" stop="20250917031500 +0000" channel="ts287" id="83847443">
-		<title>Crikey! It's the Irwins</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p15908040_b_h8_ba.jpg?lock=1280x720"></icon>
+	<programme start="20250917020100 +0000" stop="20250917024900 +0000" channel="ts287" id="84090150">
+		<title>Big Cats: An Amazing Animal Family</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p12387220_b_h10_an.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917031500 +0000" stop="20250917033900 +0000" channel="ts287" id="83847462">
-		<title>Jewels of the Natural World</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p13922543_b_h8_ab.jpg?lock=1280x720"></icon>
+	<programme start="20250917024900 +0000" stop="20250917033700 +0000" channel="ts287" id="84090142">
+		<title>Big Cats: An Amazing Animal Family</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p12387220_b_h10_an.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917033900 +0000" stop="20250917043500 +0000" channel="ts287" id="83847460">
-		<title>Into the Wild: India</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p16130094_b_h8_af.jpg?lock=1280x720"></icon>
+	<programme start="20250917033700 +0000" stop="20250917043100 +0000" channel="ts287" id="84090156">
+		<title>My Jaguar Life</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p30324824_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917043500 +0000" stop="20250917053100 +0000" channel="ts287" id="83847453">
-		<title>Just Animals</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p17555944_b_h8_ao.jpg?lock=1280x720"></icon>
+	<programme start="20250917043100 +0000" stop="20250917052500 +0000" channel="ts287" id="84131158">
+		<title>Alpha</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28726728_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917053100 +0000" stop="20250917062700 +0000" channel="ts287" id="83847457">
-		<title>The Zoo</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p13698268_b_h8_bk.jpg?lock=1280x720"></icon>
+	<programme start="20250917052500 +0000" stop="20250917062500 +0000" channel="ts287" id="84090152">
+		<title>The Lions Rule</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28372866_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917062700 +0000" stop="20250917072300 +0000" channel="ts287" id="83847455">
-		<title>Crikey! It's the Irwins</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p15908040_b_h8_ba.jpg?lock=1280x720"></icon>
+	<programme start="20250917062500 +0000" stop="20250917072300 +0000" channel="ts287" id="84090143">
+		<title>The Lions Rule</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28372866_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917072300 +0000" stop="20250917081900 +0000" channel="ts287" id="83847448">
-		<title>Into the Wild: India</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p16130094_b_h8_af.jpg?lock=1280x720"></icon>
+	<programme start="20250917072300 +0000" stop="20250917082100 +0000" channel="ts287" id="84090148">
+		<title>The Lions Rule</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28372866_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917081900 +0000" stop="20250917091500 +0000" channel="ts287" id="83847444">
-		<title>Just Animals</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p17555944_b_h8_ao.jpg?lock=1280x720"></icon>
+	<programme start="20250917082100 +0000" stop="20250917091400 +0000" channel="ts287" id="84090161">
+		<title>My Jaguar Life</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p30324824_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917091500 +0000" stop="20250917094000 +0000" channel="ts287" id="83847454">
-		<title>Wild By Nature</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p25278189_b_h10_ab.jpg?lock=1280x720"></icon>
+	<programme start="20250917091400 +0000" stop="20250917100800 +0000" channel="ts287" id="84131156">
+		<title>Alpha</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28726728_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917094000 +0000" stop="20250917103600 +0000" channel="ts287" id="83847463">
-		<title>The Zoo</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p13698268_b_h8_bk.jpg?lock=1280x720"></icon>
+	<programme start="20250917100800 +0000" stop="20250917110300 +0000" channel="ts287" id="84131160">
+		<title>Big Cats, Small World</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28093610_b_h8_ad.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917103600 +0000" stop="20250917113200 +0000" channel="ts287" id="83847461">
-		<title>Crikey! It's the Irwins</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p15908040_b_h8_ba.jpg?lock=1280x720"></icon>
+	<programme start="20250917110300 +0000" stop="20250917120600 +0000" channel="ts287" id="84130802">
+		<title>Big Cats Small World</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28093610_b_h8_ae.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917113200 +0000" stop="20250917122800 +0000" channel="ts287" id="83847456">
-		<title>Into the Wild: India</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p16130094_b_h8_af.jpg?lock=1280x720"></icon>
+	<programme start="20250917120600 +0000" stop="20250917130100 +0000" channel="ts287" id="84090160">
+		<title>Lions &amp; Hyenas</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p22030187_b_h8_ac.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917122800 +0000" stop="20250917132800 +0000" channel="ts287" id="83847445">
-		<title>The Zoo</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p13698268_b_h8_bk.jpg?lock=1280x720"></icon>
+	<programme start="20250917130100 +0000" stop="20250917134900 +0000" channel="ts287" id="84090162">
+		<title>Lions versus Hyenas</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p22134075_b_h8_af.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917132800 +0000" stop="20250917142800 +0000" channel="ts287" id="83847458">
-		<title>Caught in Motion</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p20659143_b_h10_aa.jpg?lock=1280x720"></icon>
+	<programme start="20250917134900 +0000" stop="20250917144100 +0000" channel="ts287" id="84090154">
+		<title>Nature's Ultimate Survivors</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p24828246_b_h10_ah.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917142800 +0000" stop="20250917152800 +0000" channel="ts287" id="83847450">
-		<title>The Zoo</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p13698268_b_h8_bk.jpg?lock=1280x720"></icon>
+	<programme start="20250917144100 +0000" stop="20250917153300 +0000" channel="ts287" id="84090153">
+		<title>Tiger Legacy</title>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"></icon>
 	</programme>
-	<programme start="20250917152800 +0000" stop="20250917162800 +0000" channel="ts287" id="83847446">
-		<title>The Zoo</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p13698268_b_h8_bk.jpg?lock=1280x720"></icon>
+	<programme start="20250917153300 +0000" stop="20250917162300 +0000" channel="ts287" id="84090155">
+		<title>The Leopardess</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p21733759_b_h10_ad.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917162800 +0000" stop="20250917172800 +0000" channel="ts287" id="83847459">
-		<title>The Zoo</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p13698268_b_h8_bk.jpg?lock=1280x720"></icon>
+	<programme start="20250917162300 +0000" stop="20250917171400 +0000" channel="ts287" id="84090159">
+		<title>The Brothers Pride</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p26995102_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917172800 +0000" stop="20250917182800 +0000" channel="ts287" id="83847449">
-		<title>The Zoo</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p13698268_b_h8_bk.jpg?lock=1280x720"></icon>
+	<programme start="20250917171400 +0000" stop="20250917180100 +0000" channel="ts287" id="84090149">
+		<title>Sri Lanka - Leopards Of Yala</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p28612742_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917182800 +0000" stop="20250917192000 +0000" channel="ts287" id="83847447">
-		<title>The Zoo</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p13698268_b_h8_bk.jpg?lock=1280x720"></icon>
+	<programme start="20250917180100 +0000" stop="20250917190300 +0000" channel="ts287" id="84090146">
+		<title>Lions &amp; Hyenas</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p22030187_b_h8_ac.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250916183000 +0000" stop="20250916193000 +0000" channel="ts113" id="83851329">
 		<title>Blowing Up History</title>
@@ -11992,7 +12004,7 @@
 		<title>Fear Files</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p9414272_b_h10_ag.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917173000 +0000" stop="20250917190600 +0000" channel="ts517" id="83867570">
+	<programme start="20250917173000 +0000" stop="20250917185900 +0000" channel="ts517" id="83867570">
 		<title>Fear Files</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p9414272_b_h10_ag.jpg?lock=1280x720"></icon>
 	</programme>
@@ -15828,7 +15840,7 @@
 		<title>S.I.T</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p31038004_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917173000 +0000" stop="20250917213000 +0000" channel="ts254" id="84084918">
+	<programme start="20250917173000 +0000" stop="20250917193000 +0000" channel="ts254" id="84084918">
 		<title>Antardhaan</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p17889550_v_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
@@ -17288,6 +17300,46 @@
 		<title>Malupu</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p11900947_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
+	<programme start="20250916183000 +0000" stop="20250916213000 +0000" channel="ts957" id="84092511">
+		<title>Yentha Vaadu Gaani</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p11436975_b_h8_ac.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250916213000 +0000" stop="20250917003000 +0000" channel="ts957" id="84092512">
+		<title>Vishwaroopam 2</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p15790444_v_h10_ab.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917003000 +0000" stop="20250917010000 +0000" channel="ts957" id="84092515">
+		<title>Promos</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p12860176_b_h8_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917010000 +0000" stop="20250917013000 +0000" channel="ts957" id="84092514">
+		<title>Promos</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p12860176_b_h8_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917013000 +0000" stop="20250917033000 +0000" channel="ts957" id="84092513">
+		<title>Mahesh</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p12578724_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917033000 +0000" stop="20250917063000 +0000" channel="ts957" id="84092516">
+		<title>Mourya</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p16809130_b_h10_ae.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917063000 +0000" stop="20250917093000 +0000" channel="ts957" id="84092518">
+		<title>Love to Love</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p13750841_b_h8_ac.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917093000 +0000" stop="20250917123000 +0000" channel="ts957" id="84092517">
+		<title>Gully Rowdy</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p20647249_b_h8_ab.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917123000 +0000" stop="20250917153000 +0000" channel="ts957" id="84092519">
+		<title>Mirchi</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p9738357_v_h10_ac.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250917153000 +0000" stop="20250917183000 +0000" channel="ts957" id="84092520">
+		<title>S 3</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p27695884_v_h8_aa.jpg?lock=1280x720"></icon>
+	</programme>
 	<programme start="20250916183000 +0000" stop="20250916213000 +0000" channel="ts387" id="83885467">
 		<title>Yenthavaadu Gaani</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p16224971_b_h10_aa.jpg?lock=1280x720"></icon>
@@ -17548,7 +17600,7 @@
 		<title>K.G.F: Chapter 2</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p18058904_v_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250917153300 +0000" stop="20250917213000 +0000" channel="ts252" id="83935048">
+	<programme start="20250917153300 +0000" stop="20250917183200 +0000" channel="ts252" id="83935048">
 		<title>Mirapakay</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p15488868_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
