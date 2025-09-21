@@ -484,6 +484,10 @@
 		<display-name>Gemini Movies HD</display-name>
 		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11439-j9jqvzug-v1/imageContent-11439-j9jqvzug-m1.jpg"></icon>
 	</channel>
+	<channel id="ts957">
+		<display-name>Star Maa Movies HD</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66768-kuwalqkg-v1/imageContent-66768-kuwalqkg-m1.jpg"></icon>
+	</channel>
 	<channel id="ts387">
 		<display-name>Star Maa Movies HD</display-name>
 		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18347-jcqpx848-v1/imageContent-18347-jcqpx848-m1.JPG"></icon>
@@ -1093,7 +1097,7 @@
 		<icon src="http://ttpl.tmsimg.com/assets/p30692558_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250921020000 +0000" stop="20250921053000 +0000" channel="ts244" id="84073570">
-		<title>Movie - Shiv Aur Sati Ki Mahagatha</title>
+		<title>Shiv Aur Sati Ki Mahagatha</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p28450768_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250921053000 +0000" stop="20250921063000 +0000" channel="ts244" id="84073580">
@@ -3589,7 +3593,7 @@
 		<icon src="http://ttpl.tmsimg.com/assets/p8509066_b_h8_ae.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250921080000 +0000" stop="20250921113000 +0000" channel="ts78" id="84155320">
-		<title>Live - Australia U19 vs. India U19; Cricket: Under 19</title>
+		<title>ICC World T20 Highlights</title>
 		<icon src="http://ttpl.tmsimg.com/assets/GNLZZGG002B9ZP5.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250921113000 +0000" stop="20250921114500 +0000" channel="ts78" id="84155322">
@@ -14692,13 +14696,13 @@
 		<title>Hyoch Navra Pahije</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p25310505_v_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250920214200 +0000" stop="20250920233100 +0000" channel="ts249" id="84078240">
+	<programme start="20250920214200 +0000" stop="20250921002700 +0000" channel="ts249" id="84078240">
 		<title>Vegali Vaat</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p27697045_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250920233100 +0000" stop="20250921010700 +0000" channel="ts249" id="84078249">
-		<title>Patanjali Yog by Yog Rishi Swami Ramdev</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p18280569_b_h8_aa.jpg?lock=1280x720"></icon>
+	<programme start="20250921002700 +0000" stop="20250921010700 +0000" channel="ts249" id="84301108">
+		<title>Naad Bhakticha</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p27139736_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250921010700 +0000" stop="20250921040000 +0000" channel="ts249" id="84078242">
 		<title>Gajar Kirtanacha Sohala Anandacha</title>
@@ -16859,6 +16863,46 @@
 	<programme start="20250921163000 +0000" stop="20250921193000 +0000" channel="ts362" id="84241326">
 		<title>Potugadu</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p10207976_v_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250920183000 +0000" stop="20250920213000 +0000" channel="ts957" id="84297421">
+		<title>Ayyare</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p15201818_v_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250920213000 +0000" stop="20250921003000 +0000" channel="ts957" id="84297427">
+		<title>Yentha Vaadu Gaani</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p11436975_b_h8_ac.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250921003000 +0000" stop="20250921010000 +0000" channel="ts957" id="84297422">
+		<title>Promos</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p12860176_b_h8_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250921010000 +0000" stop="20250921013000 +0000" channel="ts957" id="84297426">
+		<title>Promos</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p12860176_b_h8_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250921013000 +0000" stop="20250921033000 +0000" channel="ts957" id="84297418">
+		<title>Priyamina Nestam</title>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"></icon>
+	</programme>
+	<programme start="20250921033000 +0000" stop="20250921063000 +0000" channel="ts957" id="84297424">
+		<title>Mr. Pellikoduku</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p9786485_v_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250921063000 +0000" stop="20250921093000 +0000" channel="ts957" id="84297419">
+		<title>Brahmāstra Part One: Shiva</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p17432198_b_h10_am.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250921093000 +0000" stop="20250921123000 +0000" channel="ts957" id="84297420">
+		<title>Manmadhudu</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p13172209_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250921123000 +0000" stop="20250921153000 +0000" channel="ts957" id="84297423">
+		<title>Vishwaroopam 2</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p15790444_v_h10_ab.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250921153000 +0000" stop="20250921183000 +0000" channel="ts957" id="84297425">
+		<title>Jai Bolo Telangana</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p8526583_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250920183000 +0000" stop="20250920213000 +0000" channel="ts387" id="84241935">
 		<title>Ayyaare</title>
@@ -20556,7 +20600,7 @@
 		<icon src="http://ttpl.tmsimg.com/assets/p27452863_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250921063000 +0000" stop="20250921073000 +0000" channel="ts37" id="84023752">
-		<title>To Be Announced</title>
+		<title>Special Program</title>
 		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"></icon>
 	</programme>
 	<programme start="20250921073000 +0000" stop="20250921080000 +0000" channel="ts37" id="84023732">
@@ -21076,7 +21120,7 @@
 		<icon src="http://ttpl.tmsimg.com/assets/p30882626_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250921080000 +0000" stop="20250921103000 +0000" channel="ts659" id="84076995">
-		<title>Vendhar Matinee Show</title>
+		<title>Movie - Rajadhi Raja</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p29917939_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250921103000 +0000" stop="20250921110000 +0000" channel="ts659" id="84076993">
