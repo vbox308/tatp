@@ -484,6 +484,10 @@
 		<display-name>Gemini Movies HD</display-name>
 		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11439-j9jqvzug-v1/imageContent-11439-j9jqvzug-m1.jpg"></icon>
 	</channel>
+	<channel id="ts957">
+		<display-name>Star Maa Movies HD</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66768-kuwalqkg-v1/imageContent-66768-kuwalqkg-m1.jpg"></icon>
+	</channel>
 	<channel id="ts387">
 		<display-name>Star Maa Movies HD</display-name>
 		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18347-jcqpx848-v1/imageContent-18347-jcqpx848-m1.JPG"></icon>
@@ -1324,7 +1328,7 @@
 		<title>Jagriti - Ek Nayi Subah</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p31269822_e_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928180000 +0000" stop="20250928185900 +0000" channel="ts63" id="84443347">
+	<programme start="20250928180000 +0000" stop="20250928183200 +0000" channel="ts63" id="84443347">
 		<title>Saru</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p31005583_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
@@ -1468,7 +1472,7 @@
 		<title>Jagriti - Ek Nayi Subah</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p31269822_e_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928180000 +0000" stop="20250928190000 +0000" channel="ts557" id="84442177">
+	<programme start="20250928180000 +0000" stop="20250928183300 +0000" channel="ts557" id="84442177">
 		<title>Saru</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p31005583_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
@@ -1488,13 +1492,9 @@
 		<title>Bigg Boss</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30961806_e_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928002000 +0000" stop="20250928003000 +0000" channel="ts52" id="84645894">
+	<programme start="20250928002000 +0000" stop="20250928013000 +0000" channel="ts52" id="84645894">
 		<title>Bigg Boss</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30961805_b_h10_aa.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250928003000 +0000" stop="20250928013000 +0000" channel="ts52" id="84422670">
-		<title>Bigg Boss</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p8866018_b_h8_ac.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250928013000 +0000" stop="20250928031200 +0000" channel="ts52" id="84648232">
 		<title>Pati Patni Aur Panga</title>
@@ -1504,11 +1504,11 @@
 		<title>Laughter Chefs Unlimited Entertainment</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30465734_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928044800 +0000" stop="20250928062700 +0000" channel="ts52" id="84422674">
+	<programme start="20250928044800 +0000" stop="20250928062700 +0000" channel="ts52" id="84422670">
 		<title>Bigg Boss</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30961809_e_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928062700 +0000" stop="20250928080400 +0000" channel="ts52" id="84422676">
+	<programme start="20250928062700 +0000" stop="20250928080400 +0000" channel="ts52" id="84422674">
 		<title>Bigg Boss</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30961810_e_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
@@ -1612,13 +1612,9 @@
 		<title>Bigg Boss</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30961806_e_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928002500 +0000" stop="20250928003000 +0000" channel="ts543" id="84645886">
+	<programme start="20250928002500 +0000" stop="20250928013000 +0000" channel="ts543" id="84645886">
 		<title>Bigg Boss</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30961805_b_h10_aa.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250928003000 +0000" stop="20250928013000 +0000" channel="ts543" id="84422453">
-		<title>Bigg Boss</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p8866018_b_h8_ac.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250928013000 +0000" stop="20250928031000 +0000" channel="ts543" id="84648245">
 		<title>Pati Patni Aur Panga</title>
@@ -1628,11 +1624,11 @@
 		<title>Laughter Chefs Unlimited Entertainment</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30465734_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928042500 +0000" stop="20250928061700 +0000" channel="ts543" id="84422461">
+	<programme start="20250928042500 +0000" stop="20250928061700 +0000" channel="ts543" id="84422453">
 		<title>Bigg Boss</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30961809_e_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928061700 +0000" stop="20250928075900 +0000" channel="ts543" id="84422460">
+	<programme start="20250928061700 +0000" stop="20250928075900 +0000" channel="ts543" id="84422461">
 		<title>Bigg Boss</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30961810_e_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
@@ -2860,7 +2856,7 @@
 		<title>Holiday: A Soldier Is Never off Duty</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p10763188_v_h10_af.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928173200 +0000" stop="20250928203600 +0000" channel="ts503" id="84646637">
+	<programme start="20250928173200 +0000" stop="20250928200600 +0000" channel="ts503" id="84646637">
 		<title>Enemy</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p20932702_v_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
@@ -2896,7 +2892,7 @@
 		<title>Holiday: A Soldier Is Never off Duty</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p10763188_v_h10_af.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928172800 +0000" stop="20250928213000 +0000" channel="ts123" id="84441615">
+	<programme start="20250928172800 +0000" stop="20250928200600 +0000" channel="ts123" id="84441615">
 		<title>Enemy</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p20932702_v_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
@@ -3016,13 +3012,13 @@
 		<title>Drohi</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p82274_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250927192100 +0000" stop="20250927213300 +0000" channel="ts727" id="84441962">
+	<programme start="20250927192100 +0000" stop="20250928000000 +0000" channel="ts727" id="84441962">
 		<title>Rakta Bandhan</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p11991729_b_h10_ae.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250927213300 +0000" stop="20250928010600 +0000" channel="ts727" id="84441955">
-		<title>Baat Ban Jaye</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p8334390_v_h8_ab.jpg?lock=1280x720"></icon>
+	<programme start="20250928000000 +0000" stop="20250928010600 +0000" channel="ts727" id="84661265">
+		<title>Classic Legends</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p9109117_b_h10_ac.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250928010600 +0000" stop="20250928041500 +0000" channel="ts727" id="84441957">
 		<title>Love in Tokyo</title>
@@ -3044,7 +3040,7 @@
 		<title>Rajput</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p8329033_v_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928164700 +0000" stop="20250928200300 +0000" channel="ts727" id="84441958">
+	<programme start="20250928164700 +0000" stop="20250928192300 +0000" channel="ts727" id="84441958">
 		<title>Jaag Utha Insan</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p11273753_v_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
@@ -5760,13 +5756,13 @@
 		<title>NDTV Good Times logo launch</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p31291878_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928173000 +0000" stop="20250928180000 +0000" channel="ts179" id="84407426">
-		<title>News Headquarter@11Pm</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p30607974_b_h8_aa.jpg?lock=1280x720"></icon>
+	<programme start="20250928173000 +0000" stop="20250928180000 +0000" channel="ts179" id="84661264">
+		<title>Mahamuqabla</title>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"></icon>
 	</programme>
-	<programme start="20250928180000 +0000" stop="20250928183000 +0000" channel="ts179" id="84407395">
-		<title>News NDTV India</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p12883176_b_h10_aa.jpg?lock=1280x720"></icon>
+	<programme start="20250928180000 +0000" stop="20250928183000 +0000" channel="ts179" id="84661263">
+		<title>Mahamuqabla</title>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"></icon>
 	</programme>
 	<programme start="20250927183000 +0000" stop="20250927184500 +0000" channel="ts689" id="84416592">
 		<title>Non-Stop 100</title>
@@ -12580,9 +12576,9 @@
 		<title>Pyaar Tune Kya Kiya</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p11173690_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928083500 +0000" stop="20250928123500 +0000" channel="ts517" id="84648684">
-		<title>Goblin: The Lonely and Great God</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p14978520_b_h10_ai.jpg?lock=1280x720"></icon>
+	<programme start="20250928083500 +0000" stop="20250928123500 +0000" channel="ts517" id="84694052">
+		<title>Goblin</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p31154855_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250928123500 +0000" stop="20250928132700 +0000" channel="ts517" id="84443322">
 		<title>Pyaar Tune Kya Kiya</title>
@@ -12596,7 +12592,7 @@
 		<title>Pyaar Tune Kya Kiya</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p11173690_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928163300 +0000" stop="20250928191400 +0000" channel="ts517" id="84443320">
+	<programme start="20250928163300 +0000" stop="20250928190300 +0000" channel="ts517" id="84443320">
 		<title>Fear Files</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p9414272_b_h10_ag.jpg?lock=1280x720"></icon>
 	</programme>
@@ -14720,7 +14716,7 @@
 		<title>Tarini</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30905426_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928180000 +0000" stop="20250928190000 +0000" channel="ts501" id="84596763">
+	<programme start="20250928180000 +0000" stop="20250928183000 +0000" channel="ts501" id="84596763">
 		<title>Tarini</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30905426_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
@@ -16212,7 +16208,7 @@
 		<title>Shriman Bhagoban Das</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p31190019_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928180000 +0000" stop="20250928190000 +0000" channel="ts254" id="84441627">
+	<programme start="20250928180000 +0000" stop="20250928183000 +0000" channel="ts254" id="84441627">
 		<title>Shriman Bhagoban Das</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p31190019_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
@@ -16648,35 +16644,15 @@
 		<title>Movie - #Single</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30175974_v_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928123000 +0000" stop="20250928130000 +0000" channel="ts635" id="84443126">
-		<title>Nindu Noorella Saavasam</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p25495552_b_h10_aa.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250928130000 +0000" stop="20250928133000 +0000" channel="ts635" id="84443117">
-		<title>Padamati Sandhya Ragam</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p29171995_b_h8_aa.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250928133000 +0000" stop="20250928140000 +0000" channel="ts635" id="84443127">
-		<title>Lakshmi Nivasam</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p3584657_b_h8_aa.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250928140000 +0000" stop="20250928143000 +0000" channel="ts635" id="84443113">
-		<title>Meghasandesham</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p28010359_b_h11_ab.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250928143000 +0000" stop="20250928150000 +0000" channel="ts635" id="84443129">
-		<title>Jayam</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p29767338_b_h8_aa.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250928150000 +0000" stop="20250928153200 +0000" channel="ts635" id="84443118">
-		<title>Chamanthi</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p29167949_b_h8_ab.jpg?lock=1280x720"></icon>
+	<programme start="20250928123000 +0000" stop="20250928153200 +0000" channel="ts635" id="84694044">
+		<title>Dussehra Vachindayya Sarada Techindayya</title>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"></icon>
 	</programme>
 	<programme start="20250928153200 +0000" stop="20250928170000 +0000" channel="ts635" id="84443125">
 		<title>Jayammu Nischayammu Raa With Jagapathi Babu</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30953745_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928170000 +0000" stop="20250928193000 +0000" channel="ts635" id="84443122">
+	<programme start="20250928170000 +0000" stop="20250928183000 +0000" channel="ts635" id="84443122">
 		<title>Jayammu Nischayammu Raa With Jagapathi Babu</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30953745_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
@@ -16740,7 +16716,7 @@
 		<title>Jayammu Nischayammu Raa With Jagapathi Babu</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30953745_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928170000 +0000" stop="20250928193000 +0000" channel="ts250" id="84443101">
+	<programme start="20250928170000 +0000" stop="20250928183000 +0000" channel="ts250" id="84443101">
 		<title>Jayammu Nischayammu Raa With Jagapathi Babu</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30953745_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
@@ -17260,6 +17236,50 @@
 		<title>Dhoni</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p9090202_v_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
+	<programme start="20250927183000 +0000" stop="20250927200000 +0000" channel="ts957" id="84660581">
+		<title>Maa Oori Polimera</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p22151333_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250927200000 +0000" stop="20250927213000 +0000" channel="ts957" id="84660585">
+		<title>Prema Katha Chitram</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p10013074_b_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250927213000 +0000" stop="20250928003000 +0000" channel="ts957" id="84660575">
+		<title>Okkade</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p10637593_b_h10_ag.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250928003000 +0000" stop="20250928010000 +0000" channel="ts957" id="84660576">
+		<title>Promos</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p29390387_b_h8_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250928010000 +0000" stop="20250928013000 +0000" channel="ts957" id="84660579">
+		<title>Promos</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p29390387_b_h8_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250928013000 +0000" stop="20250928033000 +0000" channel="ts957" id="84660582">
+		<title>Satti</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p29898531_b_h10_ab.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250928033000 +0000" stop="20250928063000 +0000" channel="ts957" id="84660580">
+		<title>Ajith Billa</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p16787308_b_h8_ab.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250928063000 +0000" stop="20250928093000 +0000" channel="ts957" id="84660583">
+		<title>Seema Raja</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p15908179_v_h8_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250928093000 +0000" stop="20250928123000 +0000" channel="ts957" id="84660578">
+		<title>Subramanyam for Sale</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p12155453_v_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250928123000 +0000" stop="20250928153000 +0000" channel="ts957" id="84660577">
+		<title>Don</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p8229337_b_h10_ac.jpg?lock=1280x720"></icon>
+	</programme>
+	<programme start="20250928153000 +0000" stop="20250928183000 +0000" channel="ts957" id="84660584">
+		<title>Naa Saami Ranga</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p26455631_v_h10_aa.jpg?lock=1280x720"></icon>
+	</programme>
 	<programme start="20250927183000 +0000" stop="20250927200000 +0000" channel="ts387" id="84596279">
 		<title>Maa Oori Polimera 2</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p25954808_b_h11_aa.jpg?lock=1280x720"></icon>
@@ -17492,7 +17512,7 @@
 		<title>2016 Reporter Robinhood Reporting</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30194996_v_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928153100 +0000" stop="20250928213000 +0000" channel="ts252" id="84442414">
+	<programme start="20250928153100 +0000" stop="20250928183500 +0000" channel="ts252" id="84442414">
 		<title>Bruce Lee</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p27817070_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
@@ -17924,21 +17944,9 @@
 		<title>Mana Dharmam</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p25937733_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928093000 +0000" stop="20250928100000 +0000" channel="ts268" id="84425487">
+	<programme start="20250928093000 +0000" stop="20250928113000 +0000" channel="ts268" id="84425487">
 		<title>Movie - Kanaka Durga Pooja Mahima</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p13952956_b_h8_af.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250928100000 +0000" stop="20250928103000 +0000" channel="ts268" id="84425499">
-		<title>Movie</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p28955312_b_h10_ab.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250928103000 +0000" stop="20250928110000 +0000" channel="ts268" id="84425519">
-		<title>Movie</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p28955312_b_h10_ab.jpg?lock=1280x720"></icon>
-	</programme>
-	<programme start="20250928110000 +0000" stop="20250928113000 +0000" channel="ts268" id="84425488">
-		<title>Movie</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p28955312_b_h10_ab.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250928113000 +0000" stop="20250928120000 +0000" channel="ts268" id="84425497">
 		<title>Vishnu Sahasram</title>
@@ -24280,9 +24288,9 @@
 		<title>Filler</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p26697972_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928003000 +0000" stop="20250928010000 +0000" channel="ts256" id="84442470">
-		<title>TeleShopping</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p29725544_b_h8_aa.jpg?lock=1280x720"></icon>
+	<programme start="20250928003000 +0000" stop="20250928010000 +0000" channel="ts256" id="84648816">
+		<title>Aaradhane</title>
+		<icon src="http://ttpl.tmsimg.com/assets/p29095128_b_h8_ab.jpg?lock=1280x720"></icon>
 	</programme>
 	<programme start="20250928010000 +0000" stop="20250928013000 +0000" channel="ts256" id="84442482">
 		<title>Calvary Swara</title>
@@ -24368,7 +24376,7 @@
 		<title>Navu Nammavaru</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30819754_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928170000 +0000" stop="20250928213000 +0000" channel="ts256" id="84442471">
+	<programme start="20250928170000 +0000" stop="20250928183200 +0000" channel="ts256" id="84442471">
 		<title>Navu Nammavaru</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p30819754_b_h10_aa.jpg?lock=1280x720"></icon>
 	</programme>
@@ -25620,9 +25628,9 @@
 		<title>News Live</title>
 		<icon src="http://ttpl.tmsimg.com/assets/p28712704_b_h8_aa.jpg?lock=1280x720"></icon>
 	</programme>
-	<programme start="20250928115800 +0000" stop="20250928122800 +0000" channel="ts1287" id="84442588">
-		<title>Dnd Kalagnana</title>
-		<icon src="http://ttpl.tmsimg.com/assets/p28712413_b_h8_aa.jpg?lock=1280x720"></icon>
+	<programme start="20250928115800 +0000" stop="20250928122800 +0000" channel="ts1287" id="84648815">
+		<title>DND Supreme Defress Seg 1</title>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"></icon>
 	</programme>
 	<programme start="20250928122800 +0000" stop="20250928125800 +0000" channel="ts1287" id="84648644">
 		<title>Hl + Half Journey</title>
