@@ -1,64 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-	<channel id="ts550">
-		<display-name>STAR Plus</display-name>
-	</channel>
-	<channel id="ts8">
-		<display-name>STAR Plus HD</display-name>
-	</channel>
-	<channel id="ts618">
-		<display-name>Tata Play Beauty</display-name>
-	</channel>
-	<channel id="ts1390">
-		<display-name>Tata Play Superhits Serials</display-name>
-	</channel>
-	<channel id="ts959">
-		<display-name>Tata Play Romance</display-name>
-	</channel>
 	<channel id="ts508">
 		<display-name>STAR PLUS HD +1</display-name>
-	</channel>
-	<channel id="ts559">
-		<display-name>SONY SAB</display-name>
-	</channel>
-	<channel id="ts244">
-		<display-name>Star Bharat HD</display-name>
-	</channel>
-	<channel id="ts556">
-		<display-name>SET</display-name>
-	</channel>
-	<channel id="ts15">
-		<display-name>SET HD</display-name>
-	</channel>
-	<channel id="ts1301">
-		<display-name>Tata Play 4K</display-name>
-	</channel>
-	<channel id="ts48">
-		<display-name>SONY SAB HD</display-name>
 	</channel>
 	<channel id="ts641">
 		<display-name>Tata Play Cooking</display-name>
 	</channel>
-	<channel id="ts86">
-		<display-name>Star Bharat</display-name>
+	<channel id="ts550">
+		<display-name>STAR Plus</display-name>
+	</channel>
+	<channel id="ts15">
+		<display-name>SET HD</display-name>
+	</channel>
+	<channel id="ts559">
+		<display-name>SONY SAB</display-name>
+	</channel>
+	<channel id="ts556">
+		<display-name>SET</display-name>
+	</channel>
+	<channel id="ts1390">
+		<display-name>Tata Play Superhits Serials</display-name>
 	</channel>
 	<channel id="ts121">
 		<display-name>Tata Play Fitness</display-name>
 	</channel>
-	<channel id="ts744">
-		<display-name>Tata Play Comedy</display-name>
+	<channel id="ts618">
+		<display-name>Tata Play Beauty</display-name>
 	</channel>
-	<channel id="ts63">
-		<display-name>Zee TV HD</display-name>
+	<channel id="ts86">
+		<display-name>Star Bharat</display-name>
 	</channel>
-	<channel id="ts557">
-		<display-name>Zee TV</display-name>
+	<channel id="ts8">
+		<display-name>STAR Plus HD</display-name>
+	</channel>
+	<channel id="ts48">
+		<display-name>SONY SAB HD</display-name>
+	</channel>
+	<channel id="ts1301">
+		<display-name>Tata Play 4K</display-name>
+	</channel>
+	<channel id="ts244">
+		<display-name>Star Bharat HD</display-name>
+	</channel>
+	<channel id="ts959">
+		<display-name>Tata Play Romance</display-name>
 	</channel>
 	<channel id="ts584">
 		<display-name>Zee TV HD +1</display-name>
-	</channel>
-	<channel id="ts811">
-		<display-name>Tata Play Adbhut Kahaniyan</display-name>
 	</channel>
 	<channel id="ts578">
 		<display-name>&amp;TV</display-name>
@@ -66,11 +54,20 @@
 	<channel id="ts40">
 		<display-name>&amp;tv HD</display-name>
 	</channel>
-	<channel id="ts513">
-		<display-name>Colors HD +1</display-name>
+	<channel id="ts744">
+		<display-name>Tata Play Comedy</display-name>
+	</channel>
+	<channel id="ts811">
+		<display-name>Tata Play Adbhut Kahaniyan</display-name>
 	</channel>
 	<channel id="ts52">
 		<display-name>Colors HD</display-name>
+	</channel>
+	<channel id="ts513">
+		<display-name>Colors HD +1</display-name>
+	</channel>
+	<channel id="ts557">
+		<display-name>Zee TV</display-name>
 	</channel>
 	<channel id="ts95">
 		<display-name>Tata Play Javed Akhtar</display-name>
@@ -78,8 +75,8 @@
 	<channel id="ts943">
 		<display-name>Tata Play K-Dramas</display-name>
 	</channel>
-	<channel id="ts986">
-		<display-name>Tata Play Zindagi</display-name>
+	<channel id="ts63">
+		<display-name>Zee TV HD</display-name>
 	</channel>
 	<channel id="ts964">
 		<display-name>Tata Play Classic TV</display-name>
@@ -87,14 +84,32 @@
 	<channel id="ts1276">
 		<display-name>Investigation Discovery HD</display-name>
 	</channel>
-	<channel id="ts633">
-		<display-name>Investigation Discovery</display-name>
+	<channel id="ts986">
+		<display-name>Tata Play Zindagi</display-name>
 	</channel>
 	<channel id="ts523">
 		<display-name>Anmol TV</display-name>
 	</channel>
+	<channel id="ts633">
+		<display-name>Investigation Discovery</display-name>
+	</channel>
+	<channel id="ts554">
+		<display-name>Sony Pal</display-name>
+	</channel>
+	<channel id="ts438">
+		<display-name>Colors Rishtey</display-name>
+	</channel>
+	<channel id="ts818">
+		<display-name>Shemaroo TV</display-name>
+	</channel>
 	<channel id="ts54">
 		<display-name>The Q</display-name>
+	</channel>
+	<channel id="ts888">
+		<display-name>Ishara</display-name>
+	</channel>
+	<channel id="ts51">
+		<display-name>Dangal</display-name>
 	</channel>
 	<channel id="ts297">
 		<display-name>Big Magic</display-name>
@@ -102,20 +117,8 @@
 	<channel id="ts180">
 		<display-name>Anjan TV</display-name>
 	</channel>
-	<channel id="ts438">
-		<display-name>Colors Rishtey</display-name>
-	</channel>
-	<channel id="ts554">
-		<display-name>Sony Pal</display-name>
-	</channel>
-	<channel id="ts51">
-		<display-name>Dangal</display-name>
-	</channel>
-	<channel id="ts818">
-		<display-name>Shemaroo TV</display-name>
-	</channel>
-	<channel id="ts888">
-		<display-name>Ishara</display-name>
+	<channel id="ts1369">
+		<display-name>Sun Neo</display-name>
 	</channel>
 	<channel id="ts1184">
 		<display-name>NAZARA</display-name>
@@ -132,50 +135,47 @@
 	<channel id="ts1218">
 		<display-name>DD National HD</display-name>
 	</channel>
-	<channel id="ts1369">
-		<display-name>Sun Neo</display-name>
-	</channel>
 	<channel id="ts191">
 		<display-name>DD National</display-name>
-	</channel>
-	<channel id="ts326">
-		<display-name>DD Kisan</display-name>
 	</channel>
 	<channel id="ts502">
 		<display-name>Zee Cafe HD</display-name>
 	</channel>
-	<channel id="ts486">
-		<display-name>Tata Play Bollywood Premiere</display-name>
-	</channel>
-	<channel id="ts602">
-		<display-name>Zee Cafe</display-name>
-	</channel>
 	<channel id="ts319">
 		<display-name>Tata Play Bollywood Premiere HD</display-name>
 	</channel>
-	<channel id="ts789">
-		<display-name>Tata Play Hollywood Local</display-name>
-	</channel>
-	<channel id="ts245">
-		<display-name>STAR GOLD HD</display-name>
-	</channel>
-	<channel id="ts265">
-		<display-name>Disney International HD</display-name>
-	</channel>
-	<channel id="ts1130">
-		<display-name>Tata Play Bollywood Masala</display-name>
-	</channel>
-	<channel id="ts581">
-		<display-name>STAR GOLD HD +1</display-name>
-	</channel>
-	<channel id="ts80">
-		<display-name>SONY MAX HD</display-name>
+	<channel id="ts326">
+		<display-name>DD Kisan</display-name>
 	</channel>
 	<channel id="ts164">
 		<display-name>STAR Gold</display-name>
 	</channel>
+	<channel id="ts265">
+		<display-name>Disney International HD</display-name>
+	</channel>
+	<channel id="ts602">
+		<display-name>Zee Cafe</display-name>
+	</channel>
+	<channel id="ts486">
+		<display-name>Tata Play Bollywood Premiere</display-name>
+	</channel>
+	<channel id="ts245">
+		<display-name>STAR GOLD HD</display-name>
+	</channel>
+	<channel id="ts789">
+		<display-name>Tata Play Hollywood Local</display-name>
+	</channel>
+	<channel id="ts581">
+		<display-name>STAR GOLD HD +1</display-name>
+	</channel>
 	<channel id="ts132">
 		<display-name>SONY MAX</display-name>
+	</channel>
+	<channel id="ts80">
+		<display-name>SONY MAX HD</display-name>
+	</channel>
+	<channel id="ts1130">
+		<display-name>Tata Play Bollywood Masala</display-name>
 	</channel>
 	<channel id="ts163">
 		<display-name>Star Gold 2</display-name>
@@ -183,35 +183,38 @@
 	<channel id="ts1072">
 		<display-name>Star Gold 2 HD</display-name>
 	</channel>
+	<channel id="ts503">
+		<display-name>Zee Cinema HD</display-name>
+	</channel>
+	<channel id="ts741">
+		<display-name>Tata Play Classic Cinema</display-name>
+	</channel>
 	<channel id="ts123">
 		<display-name>Zee Cinema</display-name>
 	</channel>
 	<channel id="ts574">
 		<display-name>Zee Cinema HD +1</display-name>
 	</channel>
-	<channel id="ts741">
-		<display-name>Tata Play Classic Cinema</display-name>
-	</channel>
-	<channel id="ts503">
-		<display-name>Zee Cinema HD</display-name>
-	</channel>
-	<channel id="ts175">
-		<display-name>Zee Bollywood</display-name>
-	</channel>
 	<channel id="ts53">
 		<display-name>Colors Cineplex</display-name>
+	</channel>
+	<channel id="ts677">
+		<display-name>Tata Play ShortsTV</display-name>
 	</channel>
 	<channel id="ts493">
 		<display-name>Star Gold Romance</display-name>
 	</channel>
+	<channel id="ts175">
+		<display-name>Zee Bollywood</display-name>
+	</channel>
 	<channel id="ts666">
 		<display-name>Tata Play Theatre HD</display-name>
 	</channel>
-	<channel id="ts1183">
-		<display-name>&amp;Xplor HD</display-name>
-	</channel>
 	<channel id="ts727">
 		<display-name>Zee Classic</display-name>
+	</channel>
+	<channel id="ts494">
+		<display-name>Star Gold Thrills</display-name>
 	</channel>
 	<channel id="ts267">
 		<display-name>&amp;pictures HD</display-name>
@@ -219,11 +222,8 @@
 	<channel id="ts148">
 		<display-name>&amp;pictures</display-name>
 	</channel>
-	<channel id="ts677">
-		<display-name>Tata Play ShortsTV</display-name>
-	</channel>
-	<channel id="ts494">
-		<display-name>Star Gold Thrills</display-name>
+	<channel id="ts1183">
+		<display-name>&amp;Xplor HD</display-name>
 	</channel>
 	<channel id="ts730">
 		<display-name>B4U Kadak</display-name>
@@ -231,23 +231,26 @@
 	<channel id="ts100">
 		<display-name>Action Cinema</display-name>
 	</channel>
-	<channel id="ts56">
-		<display-name>Sony Wah</display-name>
-	</channel>
 	<channel id="ts1003">
 		<display-name>Tata Play South Talkies</display-name>
 	</channel>
-	<channel id="ts461">
-		<display-name>Star Gold Select</display-name>
-	</channel>
-	<channel id="ts595">
-		<display-name>Star Gold Select HD</display-name>
+	<channel id="ts56">
+		<display-name>Sony Wah</display-name>
 	</channel>
 	<channel id="ts120">
 		<display-name>SONY MAX 2</display-name>
 	</channel>
-	<channel id="ts470">
-		<display-name>STAR Utsav Movies</display-name>
+	<channel id="ts595">
+		<display-name>Star Gold Select HD</display-name>
+	</channel>
+	<channel id="ts64">
+		<display-name>Anmol Cinema</display-name>
+	</channel>
+	<channel id="ts1025">
+		<display-name>Colors Cineplex Superhits</display-name>
+	</channel>
+	<channel id="ts461">
+		<display-name>Star Gold Select</display-name>
 	</channel>
 	<channel id="ts7">
 		<display-name>B4U Movies</display-name>
@@ -255,32 +258,17 @@
 	<channel id="ts194">
 		<display-name>Dangal 2</display-name>
 	</channel>
-	<channel id="ts1025">
-		<display-name>Colors Cineplex Superhits</display-name>
-	</channel>
-	<channel id="ts64">
-		<display-name>Anmol Cinema</display-name>
-	</channel>
 	<channel id="ts1000">
 		<display-name>Colors Cineplex Bollywood</display-name>
 	</channel>
-	<channel id="ts823">
-		<display-name>Goldmines</display-name>
+	<channel id="ts470">
+		<display-name>STAR Utsav Movies</display-name>
 	</channel>
 	<channel id="ts1321">
 		<display-name>ALL Time MOVIES</display-name>
 	</channel>
-	<channel id="ts1499">
-		<display-name>Goldmines Movies</display-name>
-	</channel>
-	<channel id="ts560">
-		<display-name>STAR Movies HD</display-name>
-	</channel>
-	<channel id="ts1050">
-		<display-name>Goldmines Bollywood</display-name>
-	</channel>
-	<channel id="ts1269">
-		<display-name>Shemaroo Josh</display-name>
+	<channel id="ts823">
+		<display-name>Goldmines</display-name>
 	</channel>
 	<channel id="ts731">
 		<display-name>Manoranjan TV</display-name>
@@ -288,29 +276,41 @@
 	<channel id="ts12">
 		<display-name>Anmol Cinema 2</display-name>
 	</channel>
+	<channel id="ts1269">
+		<display-name>Shemaroo Josh</display-name>
+	</channel>
+	<channel id="ts1499">
+		<display-name>Goldmines Movies</display-name>
+	</channel>
 	<channel id="ts1717">
 		<display-name>SONY MAX 1</display-name>
+	</channel>
+	<channel id="ts1050">
+		<display-name>Goldmines Bollywood</display-name>
 	</channel>
 	<channel id="ts273">
 		<display-name>STAR Movies</display-name>
 	</channel>
-	<channel id="ts558">
-		<display-name>SONY PIX</display-name>
+	<channel id="ts560">
+		<display-name>STAR Movies HD</display-name>
 	</channel>
 	<channel id="ts32">
 		<display-name>SONY PIX HD</display-name>
 	</channel>
+	<channel id="ts558">
+		<display-name>SONY PIX</display-name>
+	</channel>
 	<channel id="ts506">
 		<display-name>&amp;Flix HD</display-name>
 	</channel>
-	<channel id="ts234">
-		<display-name>MNX</display-name>
+	<channel id="ts600">
+		<display-name>STAR Sports 1</display-name>
 	</channel>
-	<channel id="ts1191">
-		<display-name>DD Sports HD</display-name>
+	<channel id="ts174">
+		<display-name>Romedy Now</display-name>
 	</channel>
-	<channel id="ts173">
-		<display-name>Movies Now</display-name>
+	<channel id="ts223">
+		<display-name>DD Sports</display-name>
 	</channel>
 	<channel id="ts592">
 		<display-name>&amp;flix</display-name>
@@ -318,35 +318,38 @@
 	<channel id="ts210">
 		<display-name>MN+ HD</display-name>
 	</channel>
-	<channel id="ts223">
-		<display-name>DD Sports</display-name>
-	</channel>
-	<channel id="ts599">
-		<display-name>MNX HD</display-name>
-	</channel>
-	<channel id="ts593">
-		<display-name>STAR Movies Select HD</display-name>
-	</channel>
-	<channel id="ts174">
-		<display-name>Romedy Now</display-name>
-	</channel>
-	<channel id="ts1069">
-		<display-name>Star Movies Select</display-name>
+	<channel id="ts234">
+		<display-name>MNX</display-name>
 	</channel>
 	<channel id="ts235">
 		<display-name>Star Sports 2 HD</display-name>
 	</channel>
-	<channel id="ts530">
-		<display-name>&amp;Prive HD</display-name>
+	<channel id="ts173">
+		<display-name>Movies Now</display-name>
 	</channel>
-	<channel id="ts600">
-		<display-name>STAR Sports 1</display-name>
+	<channel id="ts1191">
+		<display-name>DD Sports HD</display-name>
+	</channel>
+	<channel id="ts593">
+		<display-name>STAR Movies Select HD</display-name>
+	</channel>
+	<channel id="ts599">
+		<display-name>MNX HD</display-name>
 	</channel>
 	<channel id="ts562">
 		<display-name>Movies Now HD</display-name>
 	</channel>
+	<channel id="ts530">
+		<display-name>&amp;Prive HD</display-name>
+	</channel>
+	<channel id="ts1069">
+		<display-name>Star Movies Select</display-name>
+	</channel>
 	<channel id="ts609">
 		<display-name>STAR Sports 2</display-name>
+	</channel>
+	<channel id="ts601">
+		<display-name>Star Sports 1 Hindi</display-name>
 	</channel>
 	<channel id="ts141">
 		<display-name>Star Sports Select 1</display-name>
@@ -354,77 +357,74 @@
 	<channel id="ts603">
 		<display-name>Star Sports Select 2</display-name>
 	</channel>
-	<channel id="ts601">
-		<display-name>Star Sports 1 Hindi</display-name>
-	</channel>
 	<channel id="ts150">
 		<display-name>SONY SPORTS TEN 1</display-name>
-	</channel>
-	<channel id="ts462">
-		<display-name>SONY SPORTS TEN 2 HD</display-name>
 	</channel>
 	<channel id="ts81">
 		<display-name>SONY SPORTS TEN 1 HD</display-name>
 	</channel>
+	<channel id="ts171">
+		<display-name>SONY SPORTS TEN 3 Hindi</display-name>
+	</channel>
 	<channel id="ts170">
 		<display-name>SONY SPORTS TEN 2</display-name>
-	</channel>
-	<channel id="ts464">
-		<display-name>SONY SPORTS TEN 3 Hindi HD</display-name>
 	</channel>
 	<channel id="ts35">
 		<display-name>SONY SPORTS TEN 5 HD</display-name>
 	</channel>
-	<channel id="ts171">
-		<display-name>SONY SPORTS TEN 3 Hindi</display-name>
-	</channel>
-	<channel id="ts1033">
-		<display-name>Star Sports 2 Hindi HD</display-name>
-	</channel>
-	<channel id="ts1786">
-		<display-name>Tata Play Fancode Sports +1</display-name>
+	<channel id="ts464">
+		<display-name>SONY SPORTS TEN 3 Hindi HD</display-name>
 	</channel>
 	<channel id="ts610">
 		<display-name>SONY SPORTS TEN 5</display-name>
 	</channel>
+	<channel id="ts462">
+		<display-name>SONY SPORTS TEN 2 HD</display-name>
+	</channel>
+	<channel id="ts1786">
+		<display-name>Tata Play Fancode Sports +1</display-name>
+	</channel>
+	<channel id="ts1033">
+		<display-name>Star Sports 2 Hindi HD</display-name>
+	</channel>
 	<channel id="ts980">
 		<display-name>Star Sports 2 Hindi</display-name>
-	</channel>
-	<channel id="ts812">
-		<display-name>Eurosport HD</display-name>
-	</channel>
-	<channel id="ts693">
-		<display-name>Eurosport</display-name>
 	</channel>
 	<channel id="ts1494">
 		<display-name>Star Sports Khel</display-name>
 	</channel>
+	<channel id="ts812">
+		<display-name>Eurosport HD</display-name>
+	</channel>
 	<channel id="ts691">
 		<display-name>DD News HD</display-name>
-	</channel>
-	<channel id="ts783">
-		<display-name>Tata Play Seniors</display-name>
-	</channel>
-	<channel id="ts179">
-		<display-name>NDTV India</display-name>
-	</channel>
-	<channel id="ts322">
-		<display-name>DD News</display-name>
 	</channel>
 	<channel id="ts177">
 		<display-name>ABP News</display-name>
 	</channel>
-	<channel id="ts689">
-		<display-name>Aaj Tak HD</display-name>
+	<channel id="ts693">
+		<display-name>Eurosport</display-name>
+	</channel>
+	<channel id="ts322">
+		<display-name>DD News</display-name>
+	</channel>
+	<channel id="ts783">
+		<display-name>Tata Play Seniors</display-name>
+	</channel>
+	<channel id="ts259">
+		<display-name>Zee News</display-name>
 	</channel>
 	<channel id="ts153">
 		<display-name>Aaj Tak</display-name>
 	</channel>
+	<channel id="ts179">
+		<display-name>NDTV India</display-name>
+	</channel>
+	<channel id="ts689">
+		<display-name>Aaj Tak HD</display-name>
+	</channel>
 	<channel id="ts1497">
 		<display-name>Zee News HD</display-name>
-	</channel>
-	<channel id="ts259">
-		<display-name>Zee News</display-name>
 	</channel>
 	<channel id="ts872">
 		<display-name>Tata Play Astro Duniya</display-name>
@@ -435,20 +435,11 @@
 	<channel id="ts104">
 		<display-name>India TV</display-name>
 	</channel>
-	<channel id="ts929">
-		<display-name>Tata Play JEE Prep</display-name>
-	</channel>
 	<channel id="ts928">
 		<display-name>Tata Play NEET Prep</display-name>
 	</channel>
-	<channel id="ts106">
-		<display-name>News18 India</display-name>
-	</channel>
-	<channel id="ts696">
-		<display-name>R Bharat</display-name>
-	</channel>
-	<channel id="ts514">
-		<display-name>Zee Bharat</display-name>
+	<channel id="ts929">
+		<display-name>Tata Play JEE Prep</display-name>
 	</channel>
 	<channel id="ts706">
 		<display-name>TV9 Bharatvarsh</display-name>
@@ -456,44 +447,44 @@
 	<channel id="ts183">
 		<display-name>India News</display-name>
 	</channel>
-	<channel id="ts966">
-		<display-name>Times Now Navbharat</display-name>
+	<channel id="ts696">
+		<display-name>R Bharat</display-name>
 	</channel>
-	<channel id="ts485">
-		<display-name>TOTAL TV</display-name>
+	<channel id="ts514">
+		<display-name>Zee Bharat</display-name>
 	</channel>
 	<channel id="ts36">
 		<display-name>News Nation</display-name>
 	</channel>
+	<channel id="ts106">
+		<display-name>News18 India</display-name>
+	</channel>
+	<channel id="ts485">
+		<display-name>TOTAL TV</display-name>
+	</channel>
 	<channel id="ts278">
 		<display-name>Good News Today</display-name>
-	</channel>
-	<channel id="ts1010">
-		<display-name>Bharat 24</display-name>
 	</channel>
 	<channel id="ts932">
 		<display-name>Times Now Navbharat HD</display-name>
 	</channel>
-	<channel id="ts475">
-		<display-name>Sudarshan News</display-name>
-	</channel>
 	<channel id="ts831">
 		<display-name>News India 24x7</display-name>
+	</channel>
+	<channel id="ts1010">
+		<display-name>Bharat 24</display-name>
+	</channel>
+	<channel id="ts966">
+		<display-name>Times Now Navbharat</display-name>
 	</channel>
 	<channel id="ts1407">
 		<display-name>India TV Speed News HD</display-name>
 	</channel>
-	<channel id="ts1084">
-		<display-name>India Daily 24x7</display-name>
-	</channel>
-	<channel id="ts1339">
-		<display-name>TNP News</display-name>
+	<channel id="ts475">
+		<display-name>Sudarshan News</display-name>
 	</channel>
 	<channel id="ts1051">
 		<display-name>Bharat Express</display-name>
-	</channel>
-	<channel id="ts414">
-		<display-name>News 1 India</display-name>
 	</channel>
 	<channel id="ts1395">
 		<display-name>Live Times</display-name>
@@ -501,14 +492,26 @@
 	<channel id="ts286">
 		<display-name>APN News</display-name>
 	</channel>
+	<channel id="ts1084">
+		<display-name>India Daily 24x7</display-name>
+	</channel>
+	<channel id="ts1339">
+		<display-name>TNP News</display-name>
+	</channel>
 	<channel id="ts415">
 		<display-name>News 11 Bharat</display-name>
+	</channel>
+	<channel id="ts414">
+		<display-name>News 1 India</display-name>
+	</channel>
+	<channel id="ts344">
+		<display-name>Hindi Khabar</display-name>
 	</channel>
 	<channel id="ts685">
 		<display-name>India Voice</display-name>
 	</channel>
-	<channel id="ts344">
-		<display-name>Hindi Khabar</display-name>
+	<channel id="ts384">
+		<display-name>Khabarain Abhi Tak</display-name>
 	</channel>
 	<channel id="ts291">
 		<display-name>Bharat Samachar</display-name>
@@ -516,26 +519,20 @@
 	<channel id="ts848">
 		<display-name>Network 10</display-name>
 	</channel>
-	<channel id="ts384">
-		<display-name>Khabarain Abhi Tak</display-name>
+	<channel id="ts701">
+		<display-name>Jantantra TV</display-name>
 	</channel>
 	<channel id="ts1274">
 		<display-name>Swadesh News</display-name>
 	</channel>
-	<channel id="ts701">
-		<display-name>Jantantra TV</display-name>
+	<channel id="ts950">
+		<display-name>ET Now Swadesh</display-name>
 	</channel>
 	<channel id="ts260">
 		<display-name>Zee Business</display-name>
 	</channel>
-	<channel id="ts950">
-		<display-name>ET Now Swadesh</display-name>
-	</channel>
 	<channel id="ts1368">
 		<display-name>Sansad TV 1 HD</display-name>
-	</channel>
-	<channel id="ts212">
-		<display-name>Sansad TV 2</display-name>
 	</channel>
 	<channel id="ts213">
 		<display-name>Sansad TV 1</display-name>
@@ -543,44 +540,47 @@
 	<channel id="ts1032">
 		<display-name>Sansad TV 2 HD</display-name>
 	</channel>
-	<channel id="ts189">
-		<display-name>NewsX</display-name>
-	</channel>
-	<channel id="ts547">
-		<display-name>Times Now World</display-name>
-	</channel>
-	<channel id="ts90">
-		<display-name>TIMES NOW</display-name>
+	<channel id="ts212">
+		<display-name>Sansad TV 2</display-name>
 	</channel>
 	<channel id="ts208">
 		<display-name>NDTV 24x7</display-name>
 	</channel>
+	<channel id="ts547">
+		<display-name>Times Now World</display-name>
+	</channel>
+	<channel id="ts189">
+		<display-name>NewsX</display-name>
+	</channel>
 	<channel id="ts591">
 		<display-name>Mirror Now</display-name>
-	</channel>
-	<channel id="ts1">
-		<display-name>INDIA TODAY</display-name>
-	</channel>
-	<channel id="ts1458">
-		<display-name>News 9</display-name>
-	</channel>
-	<channel id="ts1219">
-		<display-name>DD India HD</display-name>
-	</channel>
-	<channel id="ts72">
-		<display-name>REPUBLIC TV</display-name>
-	</channel>
-	<channel id="ts1487">
-		<display-name>NewsX World</display-name>
 	</channel>
 	<channel id="ts255">
 		<display-name>WION</display-name>
 	</channel>
-	<channel id="ts93">
-		<display-name>NDTV Profit Prime</display-name>
+	<channel id="ts90">
+		<display-name>TIMES NOW</display-name>
+	</channel>
+	<channel id="ts1">
+		<display-name>INDIA TODAY</display-name>
+	</channel>
+	<channel id="ts72">
+		<display-name>REPUBLIC TV</display-name>
+	</channel>
+	<channel id="ts1458">
+		<display-name>News 9</display-name>
 	</channel>
 	<channel id="ts324">
 		<display-name>DD India</display-name>
+	</channel>
+	<channel id="ts1487">
+		<display-name>NewsX World</display-name>
+	</channel>
+	<channel id="ts1219">
+		<display-name>DD India HD</display-name>
+	</channel>
+	<channel id="ts93">
+		<display-name>NDTV Profit Prime</display-name>
 	</channel>
 	<channel id="ts304">
 		<display-name>CNBC TV18 Prime HD</display-name>
@@ -591,23 +591,38 @@
 	<channel id="ts168">
 		<display-name>CNBC TV18</display-name>
 	</channel>
-	<channel id="ts188">
-		<display-name>BBC News</display-name>
-	</channel>
 	<channel id="ts243">
 		<display-name>CNN International</display-name>
+	</channel>
+	<channel id="ts188">
+		<display-name>BBC News</display-name>
 	</channel>
 	<channel id="ts1136">
 		<display-name>Bloomberg Television</display-name>
 	</channel>
-	<channel id="ts190">
-		<display-name>Al Jazeera</display-name>
-	</channel>
 	<channel id="ts1464">
 		<display-name>ABC Australia</display-name>
 	</channel>
-	<channel id="ts1066">
-		<display-name>Disney Channel HD</display-name>
+	<channel id="ts65">
+		<display-name>TV5 Monde Asie</display-name>
+	</channel>
+	<channel id="ts190">
+		<display-name>Al Jazeera</display-name>
+	</channel>
+	<channel id="ts71">
+		<display-name>Tata Play English in Hindi</display-name>
+	</channel>
+	<channel id="ts976">
+		<display-name>NHK World Japan</display-name>
+	</channel>
+	<channel id="ts131">
+		<display-name>France 24</display-name>
+	</channel>
+	<channel id="ts345">
+		<display-name>Hungama</display-name>
+	</channel>
+	<channel id="ts1787">
+		<display-name>Tata Play Cartoon Network Forever</display-name>
 	</channel>
 	<channel id="ts60">
 		<display-name>DW</display-name>
@@ -615,38 +630,35 @@
 	<channel id="ts98">
 		<display-name>Russia Today</display-name>
 	</channel>
+	<channel id="ts157">
+		<display-name>Channel News Asia</display-name>
+	</channel>
 	<channel id="ts626">
 		<display-name>Tata Play Fun Learn Preschool</display-name>
+	</channel>
+	<channel id="ts1066">
+		<display-name>Disney Channel HD</display-name>
 	</channel>
 	<channel id="ts627">
 		<display-name>Tata Play Fun Learn Junior</display-name>
 	</channel>
-	<channel id="ts157">
-		<display-name>Channel News Asia</display-name>
-	</channel>
-	<channel id="ts71">
-		<display-name>Tata Play English in Hindi</display-name>
-	</channel>
-	<channel id="ts345">
-		<display-name>Hungama</display-name>
-	</channel>
 	<channel id="ts681">
 		<display-name>Cartoon Network HD+</display-name>
 	</channel>
-	<channel id="ts65">
-		<display-name>TV5 Monde Asie</display-name>
+	<channel id="ts45">
+		<display-name>SONY YAY!</display-name>
 	</channel>
-	<channel id="ts1787">
-		<display-name>Tata Play Cartoon Network Forever</display-name>
-	</channel>
-	<channel id="ts131">
-		<display-name>France 24</display-name>
-	</channel>
-	<channel id="ts976">
-		<display-name>NHK World Japan</display-name>
+	<channel id="ts905">
+		<display-name>ETV Bal Bharat</display-name>
 	</channel>
 	<channel id="ts238">
 		<display-name>Cartoon Network</display-name>
+	</channel>
+	<channel id="ts994">
+		<display-name>Tata Play Toons+</display-name>
+	</channel>
+	<channel id="ts867">
+		<display-name>Gubbare</display-name>
 	</channel>
 	<channel id="ts119">
 		<display-name>Discovery Kids</display-name>
@@ -654,26 +666,14 @@
 	<channel id="ts239">
 		<display-name>Pogo</display-name>
 	</channel>
-	<channel id="ts994">
-		<display-name>Tata Play Toons+</display-name>
-	</channel>
-	<channel id="ts45">
-		<display-name>SONY YAY!</display-name>
-	</channel>
 	<channel id="ts1340">
 		<display-name>ETV Bal Bharat HD</display-name>
 	</channel>
-	<channel id="ts867">
-		<display-name>Gubbare</display-name>
-	</channel>
-	<channel id="ts905">
-		<display-name>ETV Bal Bharat</display-name>
+	<channel id="ts816">
+		<display-name>CBeeBies</display-name>
 	</channel>
 	<channel id="ts302">
 		<display-name>Chutti TV</display-name>
-	</channel>
-	<channel id="ts561">
-		<display-name>Chintu TV</display-name>
 	</channel>
 	<channel id="ts383">
 		<display-name>Kushi TV</display-name>
@@ -681,8 +681,8 @@
 	<channel id="ts82">
 		<display-name>Kochu TV</display-name>
 	</channel>
-	<channel id="ts816">
-		<display-name>CBeeBies</display-name>
+	<channel id="ts111">
+		<display-name>Tata Play Smart Manager</display-name>
 	</channel>
 	<channel id="ts1164">
 		<display-name>Unique TV</display-name>
@@ -690,8 +690,8 @@
 	<channel id="ts167">
 		<display-name>Tata Play Vedic Maths</display-name>
 	</channel>
-	<channel id="ts111">
-		<display-name>Tata Play Smart Manager</display-name>
+	<channel id="ts561">
+		<display-name>Chintu TV</display-name>
 	</channel>
 	<channel id="ts605">
 		<display-name>National Geographic HD</display-name>
@@ -699,41 +699,35 @@
 	<channel id="ts137">
 		<display-name>National Geographic</display-name>
 	</channel>
-	<channel id="ts341">
-		<display-name>Discovery HD World</display-name>
-	</channel>
 	<channel id="ts184">
 		<display-name>Nat Geo Wild</display-name>
-	</channel>
-	<channel id="ts172">
-		<display-name>History TV18</display-name>
-	</channel>
-	<channel id="ts219">
-		<display-name>Discovery Channel</display-name>
-	</channel>
-	<channel id="ts113">
-		<display-name>Discovery Science</display-name>
-	</channel>
-	<channel id="ts126">
-		<display-name>EPIC</display-name>
 	</channel>
 	<channel id="ts287">
 		<display-name>Animal Planet HD</display-name>
 	</channel>
-	<channel id="ts158">
-		<display-name>SONY BBC Earth</display-name>
+	<channel id="ts341">
+		<display-name>Discovery HD World</display-name>
+	</channel>
+	<channel id="ts219">
+		<display-name>Discovery Channel</display-name>
 	</channel>
 	<channel id="ts130">
 		<display-name>Animal Planet</display-name>
 	</channel>
-	<channel id="ts480">
-		<display-name>TLC HD</display-name>
+	<channel id="ts113">
+		<display-name>Discovery Science</display-name>
+	</channel>
+	<channel id="ts158">
+		<display-name>SONY BBC Earth</display-name>
 	</channel>
 	<channel id="ts460">
 		<display-name>SONY BBC Earth HD</display-name>
 	</channel>
-	<channel id="ts135">
-		<display-name>TLC</display-name>
+	<channel id="ts172">
+		<display-name>History TV18</display-name>
+	</channel>
+	<channel id="ts126">
+		<display-name>EPIC</display-name>
 	</channel>
 	<channel id="ts646">
 		<display-name>DD Gyan Darshan</display-name>
@@ -741,11 +735,17 @@
 	<channel id="ts136">
 		<display-name>GOOD TiMES</display-name>
 	</channel>
+	<channel id="ts135">
+		<display-name>TLC</display-name>
+	</channel>
 	<channel id="ts484">
 		<display-name>Travelxp HD</display-name>
 	</channel>
-	<channel id="ts117">
-		<display-name>Food Food</display-name>
+	<channel id="ts480">
+		<display-name>TLC HD</display-name>
+	</channel>
+	<channel id="ts228">
+		<display-name>Discovery Turbo</display-name>
 	</channel>
 	<channel id="ts55">
 		<display-name>Travelxp</display-name>
@@ -753,17 +753,11 @@
 	<channel id="ts504">
 		<display-name>Zee Zest</display-name>
 	</channel>
+	<channel id="ts117">
+		<display-name>Food Food</display-name>
+	</channel>
 	<channel id="ts382">
 		<display-name>Zee Zest HD</display-name>
-	</channel>
-	<channel id="ts735">
-		<display-name>Tata Play Ibaadat</display-name>
-	</channel>
-	<channel id="ts103">
-		<display-name>MTV</display-name>
-	</channel>
-	<channel id="ts139">
-		<display-name>9XM</display-name>
 	</channel>
 	<channel id="ts1030">
 		<display-name>Foodxp</display-name>
@@ -771,65 +765,71 @@
 	<channel id="ts227">
 		<display-name>Fashion TV</display-name>
 	</channel>
-	<channel id="ts228">
-		<display-name>Discovery Turbo</display-name>
-	</channel>
-	<channel id="ts737">
-		<display-name>Tata Play Music</display-name>
+	<channel id="ts735">
+		<display-name>Tata Play Ibaadat</display-name>
 	</channel>
 	<channel id="ts96">
 		<display-name>Zoom</display-name>
 	</channel>
-	<channel id="ts224">
-		<display-name>E24</display-name>
+	<channel id="ts103">
+		<display-name>MTV</display-name>
 	</channel>
 	<channel id="ts9">
 		<display-name>B4U Music</display-name>
 	</channel>
-	<channel id="ts17">
-		<display-name>Mastiii</display-name>
+	<channel id="ts139">
+		<display-name>9XM</display-name>
+	</channel>
+	<channel id="ts224">
+		<display-name>E24</display-name>
 	</channel>
 	<channel id="ts517">
 		<display-name>Zing</display-name>
 	</channel>
+	<channel id="ts737">
+		<display-name>Tata Play Music</display-name>
+	</channel>
+	<channel id="ts17">
+		<display-name>Mastiii</display-name>
+	</channel>
 	<channel id="ts1330">
 		<display-name>Raj Pariwar</display-name>
-	</channel>
-	<channel id="ts733">
-		<display-name>Showbox</display-name>
-	</channel>
-	<channel id="ts742">
-		<display-name>Tata Play Aradhana</display-name>
 	</channel>
 	<channel id="ts1785">
 		<display-name>Tata Play Bhakti Sangeet</display-name>
 	</channel>
+	<channel id="ts733">
+		<display-name>Showbox</display-name>
+	</channel>
 	<channel id="ts151">
 		<display-name>Tata Play Devotion</display-name>
 	</channel>
-	<channel id="ts397">
-		<display-name>MH One Shraddha</display-name>
-	</channel>
-	<channel id="ts38">
-		<display-name>Aastha</display-name>
-	</channel>
-	<channel id="ts447">
-		<display-name>Sadhna TV</display-name>
+	<channel id="ts742">
+		<display-name>Tata Play Aradhana</display-name>
 	</channel>
 	<channel id="ts43">
 		<display-name>Sanskar</display-name>
 	</channel>
-	<channel id="ts385">
-		<display-name>Sharnam TV</display-name>
+	<channel id="ts38">
+		<display-name>Aastha</display-name>
 	</channel>
 	<channel id="ts446">
 		<display-name>Paras Gold One</display-name>
 	</channel>
-	<channel id="ts420">
-		<display-name>Peace of Mind</display-name>
+	<channel id="ts447">
+		<display-name>Sadhna TV</display-name>
+	</channel>
+	<channel id="ts397">
+		<display-name>MH One Shraddha</display-name>
+	</channel>
+	<channel id="ts385">
+		<display-name>Sharnam TV</display-name>
 	</channel>
 	<channel id="ts373">
 		<display-name>Jinvani Channel</display-name>
+	</channel>
+	<channel id="ts420">
+		<display-name>Peace of Mind</display-name>
 	</channel>
 	<channel id="ts288">
 		<display-name>Dharma Sandesh</display-name>
@@ -840,14 +840,14 @@
 	<channel id="ts456">
 		<display-name>Satsang TV</display-name>
 	</channel>
+	<channel id="ts594">
+		<display-name>Ishwar TV</display-name>
+	</channel>
 	<channel id="ts500">
 		<display-name>Vedic</display-name>
 	</channel>
 	<channel id="ts458">
 		<display-name>Shubh TV</display-name>
-	</channel>
-	<channel id="ts594">
-		<display-name>Ishwar TV</display-name>
 	</channel>
 	<channel id="ts775">
 		<display-name>DIVYA</display-name>
@@ -855,128 +855,122 @@
 	<channel id="ts911">
 		<display-name>Santwani</display-name>
 	</channel>
-	<channel id="ts969">
-		<display-name>Aadinath TV</display-name>
-	</channel>
 	<channel id="ts935">
 		<display-name>Awakening</display-name>
 	</channel>
-	<channel id="ts1486">
-		<display-name>Anand TV</display-name>
-	</channel>
-	<channel id="ts814">
-		<display-name>Zee Biskope</display-name>
+	<channel id="ts969">
+		<display-name>Aadinath TV</display-name>
 	</channel>
 	<channel id="ts837">
 		<display-name>Hare Krsna</display-name>
 	</channel>
-	<channel id="ts830">
-		<display-name>Filamchi Bhojpuri</display-name>
+	<channel id="ts814">
+		<display-name>Zee Biskope</display-name>
 	</channel>
-	<channel id="ts431">
-		<display-name>Oscar Movies Bhojpuri</display-name>
+	<channel id="ts1486">
+		<display-name>Anand TV</display-name>
 	</channel>
 	<channel id="ts181">
 		<display-name>Bhojpuri Cinema</display-name>
 	</channel>
-	<channel id="ts899">
-		<display-name>Pasand</display-name>
+	<channel id="ts830">
+		<display-name>Filamchi Bhojpuri</display-name>
 	</channel>
 	<channel id="ts729">
 		<display-name>B4U Bhojpuri</display-name>
 	</channel>
+	<channel id="ts899">
+		<display-name>Pasand</display-name>
+	</channel>
+	<channel id="ts431">
+		<display-name>Oscar Movies Bhojpuri</display-name>
+	</channel>
 	<channel id="ts1449">
 		<display-name>Manoranjan Prime</display-name>
-	</channel>
-	<channel id="ts166">
-		<display-name>News18 Bihar Jharkhand</display-name>
 	</channel>
 	<channel id="ts1165">
 		<display-name>CAPTAIN</display-name>
 	</channel>
-	<channel id="ts20">
-		<display-name>Zee Bihar Jharkhand</display-name>
+	<channel id="ts166">
+		<display-name>News18 Bihar Jharkhand</display-name>
 	</channel>
 	<channel id="ts637">
 		<display-name>Zee Uttar Pradesh Uttarakhand</display-name>
 	</channel>
-	<channel id="ts1267">
-		<display-name>HNN News</display-name>
-	</channel>
-	<channel id="ts317">
-		<display-name>DD Bihar</display-name>
-	</channel>
-	<channel id="ts316">
-		<display-name>DD Bharati</display-name>
-	</channel>
-	<channel id="ts1188">
-		<display-name>DD Jharkhand</display-name>
+	<channel id="ts20">
+		<display-name>Zee Bihar Jharkhand</display-name>
 	</channel>
 	<channel id="ts827">
 		<display-name>Sadhna Plus News</display-name>
 	</channel>
-	<channel id="ts838">
-		<display-name>Kashish News</display-name>
-	</channel>
-	<channel id="ts1213">
-		<display-name>DD Uttarakhand</display-name>
-	</channel>
-	<channel id="ts613">
-		<display-name>News State UP Uttarakhand</display-name>
-	</channel>
-	<channel id="ts30">
-		<display-name>India News UP UK</display-name>
-	</channel>
-	<channel id="ts1442">
-		<display-name>TV 100</display-name>
-	</channel>
-	<channel id="ts512">
-		<display-name>Zee Madhya Pradesh Chattisgarh</display-name>
-	</channel>
-	<channel id="ts339">
-		<display-name>DD Uttar Pradesh</display-name>
+	<channel id="ts317">
+		<display-name>DD Bihar</display-name>
 	</channel>
 	<channel id="ts27">
 		<display-name>IBC 24</display-name>
 	</channel>
+	<channel id="ts1213">
+		<display-name>DD Uttarakhand</display-name>
+	</channel>
+	<channel id="ts339">
+		<display-name>DD Uttar Pradesh</display-name>
+	</channel>
+	<channel id="ts613">
+		<display-name>News State UP Uttarakhand</display-name>
+	</channel>
+	<channel id="ts1188">
+		<display-name>DD Jharkhand</display-name>
+	</channel>
+	<channel id="ts316">
+		<display-name>DD Bharati</display-name>
+	</channel>
+	<channel id="ts1442">
+		<display-name>TV 100</display-name>
+	</channel>
 	<channel id="ts1344">
 		<display-name>Naxatra News</display-name>
+	</channel>
+	<channel id="ts30">
+		<display-name>India News UP UK</display-name>
+	</channel>
+	<channel id="ts1267">
+		<display-name>HNN News</display-name>
+	</channel>
+	<channel id="ts838">
+		<display-name>Kashish News</display-name>
 	</channel>
 	<channel id="ts203">
 		<display-name>News18 Madhya Pradesh Chhattisgarh</display-name>
 	</channel>
+	<channel id="ts512">
+		<display-name>Zee Madhya Pradesh Chattisgarh</display-name>
+	</channel>
 	<channel id="ts652">
 		<display-name>Bansal News</display-name>
-	</channel>
-	<channel id="ts829">
-		<display-name>Sadhna News MP CG</display-name>
-	</channel>
-	<channel id="ts902">
-		<display-name>News 24 Madhyapradesh Chattisgarh</display-name>
 	</channel>
 	<channel id="ts698">
 		<display-name>INH 24X7</display-name>
 	</channel>
+	<channel id="ts222">
+		<display-name>India News MP CG</display-name>
+	</channel>
+	<channel id="ts829">
+		<display-name>Sadhna News MP CG</display-name>
+	</channel>
 	<channel id="ts577">
 		<display-name>Swaraj Express SMBC</display-name>
-	</channel>
-	<channel id="ts1053">
-		<display-name>Asian News</display-name>
 	</channel>
 	<channel id="ts643">
 		<display-name>News State MP CG</display-name>
 	</channel>
-	<channel id="ts222">
-		<display-name>India News MP CG</display-name>
+	<channel id="ts902">
+		<display-name>News 24 Madhyapradesh Chattisgarh</display-name>
+	</channel>
+	<channel id="ts1053">
+		<display-name>Asian News</display-name>
 	</channel>
 	<channel id="ts937">
 		<display-name>Anaadi TV</display-name>
-	</channel>
-	<channel id="ts1159">
-		<display-name>NDTV MPCG</display-name>
-	</channel>
-	<channel id="ts1400">
-		<display-name>Sadhna Prime News</display-name>
 	</channel>
 	<channel id="ts1009">
 		<display-name>TV27 News</display-name>
@@ -984,20 +978,23 @@
 	<channel id="ts1376">
 		<display-name>BS TV</display-name>
 	</channel>
-	<channel id="ts1216">
-		<display-name>DD Chhattisgarh</display-name>
-	</channel>
 	<channel id="ts1315">
 		<display-name>Vistaar News</display-name>
 	</channel>
-	<channel id="ts1075">
-		<display-name>Sach Bedhadak</display-name>
+	<channel id="ts1159">
+		<display-name>NDTV MPCG</display-name>
+	</channel>
+	<channel id="ts1216">
+		<display-name>DD Chhattisgarh</display-name>
+	</channel>
+	<channel id="ts1400">
+		<display-name>Sadhna Prime News</display-name>
 	</channel>
 	<channel id="ts330">
 		<display-name>DD Madhya Pradesh</display-name>
 	</channel>
-	<channel id="ts583">
-		<display-name>Zee Rajasthan News</display-name>
+	<channel id="ts14">
+		<display-name>India News Rajasthan</display-name>
 	</channel>
 	<channel id="ts650">
 		<display-name>First India Rajasthan</display-name>
@@ -1005,65 +1002,59 @@
 	<channel id="ts870">
 		<display-name>Jan TV</display-name>
 	</channel>
-	<channel id="ts332">
-		<display-name>DD Rajasthan</display-name>
-	</channel>
 	<channel id="ts518">
 		<display-name>Salaam TV</display-name>
 	</channel>
-	<channel id="ts1152">
-		<display-name>NDTV Rajasthan</display-name>
+	<channel id="ts583">
+		<display-name>Zee Rajasthan News</display-name>
 	</channel>
-	<channel id="ts14">
-		<display-name>India News Rajasthan</display-name>
+	<channel id="ts1075">
+		<display-name>Sach Bedhadak</display-name>
+	</channel>
+	<channel id="ts332">
+		<display-name>DD Rajasthan</display-name>
 	</channel>
 	<channel id="ts354">
 		<display-name>News18 Jammu Kashmir Ladakh Himachal</display-name>
 	</channel>
-	<channel id="ts338">
-		<display-name>DD Urdu</display-name>
-	</channel>
-	<channel id="ts308">
-		<display-name>Colors Marathi HD</display-name>
-	</channel>
 	<channel id="ts161">
 		<display-name>Channel WIN</display-name>
+	</channel>
+	<channel id="ts1152">
+		<display-name>NDTV Rajasthan</display-name>
 	</channel>
 	<channel id="ts365">
 		<display-name>Gulistan News</display-name>
 	</channel>
+	<channel id="ts308">
+		<display-name>Colors Marathi HD</display-name>
+	</channel>
+	<channel id="ts338">
+		<display-name>DD Urdu</display-name>
+	</channel>
 	<channel id="ts134">
 		<display-name>Colors Marathi</display-name>
-	</channel>
-	<channel id="ts251">
-		<display-name>Zee Marathi</display-name>
 	</channel>
 	<channel id="ts501">
 		<display-name>Zee Marathi HD</display-name>
 	</channel>
-	<channel id="ts515">
-		<display-name>Zee Talkies HD</display-name>
+	<channel id="ts251">
+		<display-name>Zee Marathi</display-name>
 	</channel>
 	<channel id="ts469">
 		<display-name>Star Pravah HD</display-name>
 	</channel>
-	<channel id="ts248">
-		<display-name>Zee YUVA</display-name>
+	<channel id="ts466">
+		<display-name>STAR Pravah</display-name>
 	</channel>
 	<channel id="ts622">
 		<display-name>Tata Play Marathi Cinema</display-name>
 	</channel>
-	<channel id="ts466">
-		<display-name>STAR Pravah</display-name>
-	</channel>
 	<channel id="ts1444">
 		<display-name>Tata Play Marathi Classics</display-name>
 	</channel>
-	<channel id="ts955">
-		<display-name>Sun Marathi</display-name>
-	</channel>
-	<channel id="ts1221">
-		<display-name>Sun Marathi HD</display-name>
+	<channel id="ts248">
+		<display-name>Zee YUVA</display-name>
 	</channel>
 	<channel id="ts658">
 		<display-name>Sony Marathi</display-name>
@@ -1071,8 +1062,11 @@
 	<channel id="ts1175">
 		<display-name>Star Pravah Pictures HD</display-name>
 	</channel>
-	<channel id="ts985">
-		<display-name>STAR Pravah Picture</display-name>
+	<channel id="ts955">
+		<display-name>Sun Marathi</display-name>
+	</channel>
+	<channel id="ts1221">
+		<display-name>Sun Marathi HD</display-name>
 	</channel>
 	<channel id="ts192">
 		<display-name>Fakt Marathi</display-name>
@@ -1080,23 +1074,32 @@
 	<channel id="ts249">
 		<display-name>Zee Talkies</display-name>
 	</channel>
-	<channel id="ts140">
-		<display-name>News18 Lokmat</display-name>
+	<channel id="ts515">
+		<display-name>Zee Talkies HD</display-name>
+	</channel>
+	<channel id="ts985">
+		<display-name>STAR Pravah Picture</display-name>
 	</channel>
 	<channel id="ts800">
 		<display-name>Shemaroo MarathiBana</display-name>
 	</channel>
+	<channel id="ts140">
+		<display-name>News18 Lokmat</display-name>
+	</channel>
 	<channel id="ts999">
 		<display-name>Tata Play Toons+</display-name>
-	</channel>
-	<channel id="ts261">
-		<display-name>Zee 24 Taas</display-name>
 	</channel>
 	<channel id="ts155">
 		<display-name>ABP Majha</display-name>
 	</channel>
+	<channel id="ts826">
+		<display-name>Lokshahi Marathi</display-name>
+	</channel>
 	<channel id="ts546">
 		<display-name>Saam TV</display-name>
+	</channel>
+	<channel id="ts261">
+		<display-name>Zee 24 Taas</display-name>
 	</channel>
 	<channel id="ts97">
 		<display-name>TV9 Marathi</display-name>
@@ -1104,101 +1107,113 @@
 	<channel id="ts233">
 		<display-name>Jai Maharashtra</display-name>
 	</channel>
+	<channel id="ts1102">
+		<display-name>Pudhari News</display-name>
+	</channel>
+	<channel id="ts336">
+		<display-name>DD Sahyadri</display-name>
+	</channel>
 	<channel id="ts217">
 		<display-name>Sangeet Marathi</display-name>
 	</channel>
 	<channel id="ts1343">
 		<display-name>NDTV MARATHI</display-name>
 	</channel>
-	<channel id="ts1102">
-		<display-name>Pudhari News</display-name>
+	<channel id="ts305">
+		<display-name>Colors Bangla HD</display-name>
 	</channel>
 	<channel id="ts26">
 		<display-name>Colors Bangla</display-name>
 	</channel>
-	<channel id="ts826">
-		<display-name>Lokshahi Marathi</display-name>
-	</channel>
-	<channel id="ts336">
-		<display-name>DD Sahyadri</display-name>
-	</channel>
-	<channel id="ts305">
-		<display-name>Colors Bangla HD</display-name>
+	<channel id="ts614">
+		<display-name>Tata Play Bangla Cinema</display-name>
 	</channel>
 	<channel id="ts522">
 		<display-name>Zee Bangla HD</display-name>
 	</channel>
-	<channel id="ts614">
-		<display-name>Tata Play Bangla Cinema</display-name>
-	</channel>
-	<channel id="ts468">
-		<display-name>Star Jalsha HD</display-name>
-	</channel>
-	<channel id="ts34">
-		<display-name>SONY AATH</display-name>
-	</channel>
 	<channel id="ts253">
 		<display-name>Zee Bangla</display-name>
-	</channel>
-	<channel id="ts995">
-		<display-name>Tata Play Toons+</display-name>
 	</channel>
 	<channel id="ts465">
 		<display-name>STAR Jalsha</display-name>
 	</channel>
-	<channel id="ts1222">
-		<display-name>Sun Bangla HD</display-name>
+	<channel id="ts34">
+		<display-name>SONY AATH</display-name>
 	</channel>
 	<channel id="ts697">
 		<display-name>Sun Bangla</display-name>
 	</channel>
-	<channel id="ts129">
-		<display-name>Aakaash Aath</display-name>
-	</channel>
-	<channel id="ts3">
-		<display-name>Ruposhi Bangla</display-name>
+	<channel id="ts468">
+		<display-name>Star Jalsha HD</display-name>
 	</channel>
 	<channel id="ts788">
 		<display-name>Enterr10 Bangla</display-name>
 	</channel>
+	<channel id="ts129">
+		<display-name>Aakaash Aath</display-name>
+	</channel>
+	<channel id="ts1222">
+		<display-name>Sun Bangla HD</display-name>
+	</channel>
+	<channel id="ts995">
+		<display-name>Tata Play Toons+</display-name>
+	</channel>
 	<channel id="ts572">
 		<display-name>Jalsha Movies</display-name>
-	</channel>
-	<channel id="ts537">
-		<display-name>Jalsha Movies HD</display-name>
-	</channel>
-	<channel id="ts379">
-		<display-name>Khushboo Bangla</display-name>
 	</channel>
 	<channel id="ts254">
 		<display-name>Zee Bangla Sonar</display-name>
 	</channel>
+	<channel id="ts3">
+		<display-name>Ruposhi Bangla</display-name>
+	</channel>
 	<channel id="ts896">
 		<display-name>Colors Bangla Cinema</display-name>
+	</channel>
+	<channel id="ts537">
+		<display-name>Jalsha Movies HD</display-name>
 	</channel>
 	<channel id="ts1132">
 		<display-name>Rongeen TV</display-name>
 	</channel>
-	<channel id="ts258">
-		<display-name>Zee 24 Ghanta</display-name>
-	</channel>
 	<channel id="ts102">
 		<display-name>ABP Ananda</display-name>
 	</channel>
-	<channel id="ts873">
-		<display-name>TV9 Bangla</display-name>
+	<channel id="ts379">
+		<display-name>Khushboo Bangla</display-name>
 	</channel>
-	<channel id="ts23">
-		<display-name>News18 Bangla</display-name>
+	<channel id="ts258">
+		<display-name>Zee 24 Ghanta</display-name>
 	</channel>
 	<channel id="ts381">
 		<display-name>Kolkata TV</display-name>
 	</channel>
-	<channel id="ts207">
-		<display-name>News Time Bangla</display-name>
+	<channel id="ts23">
+		<display-name>News18 Bangla</display-name>
+	</channel>
+	<channel id="ts873">
+		<display-name>TV9 Bangla</display-name>
 	</channel>
 	<channel id="ts890">
 		<display-name>Republic Bangla</display-name>
+	</channel>
+	<channel id="ts207">
+		<display-name>News Time Bangla</display-name>
+	</channel>
+	<channel id="ts648">
+		<display-name>Calcutta News</display-name>
+	</channel>
+	<channel id="ts635">
+		<display-name>Zee Telugu HD</display-name>
+	</channel>
+	<channel id="ts516">
+		<display-name>STAR Maa HD</display-name>
+	</channel>
+	<channel id="ts359">
+		<display-name>ETV HD</display-name>
+	</channel>
+	<channel id="ts314">
+		<display-name>DD Bangla</display-name>
 	</channel>
 	<channel id="ts311">
 		<display-name>CTVN AKD Plus</display-name>
@@ -1206,29 +1221,8 @@
 	<channel id="ts538">
 		<display-name>STAR Maa</display-name>
 	</channel>
-	<channel id="ts635">
-		<display-name>Zee Telugu HD</display-name>
-	</channel>
-	<channel id="ts314">
-		<display-name>DD Bangla</display-name>
-	</channel>
-	<channel id="ts956">
-		<display-name>STAR Maa HD</display-name>
-	</channel>
-	<channel id="ts657">
-		<display-name>Tata Play Telugu Cinema</display-name>
-	</channel>
-	<channel id="ts648">
-		<display-name>Calcutta News</display-name>
-	</channel>
 	<channel id="ts250">
 		<display-name>Zee Telugu</display-name>
-	</channel>
-	<channel id="ts368">
-		<display-name>News Live Bangla</display-name>
-	</channel>
-	<channel id="ts215">
-		<display-name>Sangeet Bangla</display-name>
 	</channel>
 	<channel id="ts195">
 		<display-name>Gemini TV</display-name>
@@ -1236,32 +1230,29 @@
 	<channel id="ts355">
 		<display-name>Gemini TV HD</display-name>
 	</channel>
-	<channel id="ts516">
+	<channel id="ts956">
 		<display-name>STAR Maa HD</display-name>
+	</channel>
+	<channel id="ts657">
+		<display-name>Tata Play Telugu Cinema</display-name>
+	</channel>
+	<channel id="ts368">
+		<display-name>News Live Bangla</display-name>
 	</channel>
 	<channel id="ts145">
 		<display-name>ETV Telugu</display-name>
 	</channel>
-	<channel id="ts359">
-		<display-name>ETV HD</display-name>
+	<channel id="ts215">
+		<display-name>Sangeet Bangla</display-name>
 	</channel>
 	<channel id="ts361">
 		<display-name>Gemini Life</display-name>
 	</channel>
-	<channel id="ts1135">
-		<display-name>Vanitha</display-name>
-	</channel>
-	<channel id="ts645">
-		<display-name>Tata Play English in Telugu</display-name>
-	</channel>
 	<channel id="ts1342">
 		<display-name>ETV Plus HD</display-name>
 	</channel>
-	<channel id="ts585">
-		<display-name>Vissa TV</display-name>
-	</channel>
-	<channel id="ts162">
-		<display-name>Gemini Movies</display-name>
+	<channel id="ts996">
+		<display-name>Tata Play Toons+</display-name>
 	</channel>
 	<channel id="ts352">
 		<display-name>ETV Plus</display-name>
@@ -1269,20 +1260,17 @@
 	<channel id="ts1389">
 		<display-name>Mahaa Max</display-name>
 	</channel>
-	<channel id="ts362">
-		<display-name>Gemini Movies HD</display-name>
+	<channel id="ts645">
+		<display-name>Tata Play English in Telugu</display-name>
 	</channel>
-	<channel id="ts996">
-		<display-name>Tata Play Toons+</display-name>
+	<channel id="ts1135">
+		<display-name>Vanitha</display-name>
 	</channel>
-	<channel id="ts1341">
-		<display-name>ETV Cinema HD</display-name>
+	<channel id="ts162">
+		<display-name>Gemini Movies</display-name>
 	</channel>
-	<channel id="ts277">
-		<display-name>Star Maa Movies</display-name>
-	</channel>
-	<channel id="ts957">
-		<display-name>Star Maa Movies HD</display-name>
+	<channel id="ts585">
+		<display-name>Vissa TV</display-name>
 	</channel>
 	<channel id="ts387">
 		<display-name>Star Maa Movies HD</display-name>
@@ -1290,8 +1278,26 @@
 	<channel id="ts636">
 		<display-name>Zee Cinemalu HD</display-name>
 	</channel>
+	<channel id="ts362">
+		<display-name>Gemini Movies HD</display-name>
+	</channel>
+	<channel id="ts957">
+		<display-name>Star Maa Movies HD</display-name>
+	</channel>
+	<channel id="ts252">
+		<display-name>Zee Cinemalu</display-name>
+	</channel>
+	<channel id="ts277">
+		<display-name>Star Maa Movies</display-name>
+	</channel>
+	<channel id="ts1341">
+		<display-name>ETV Cinema HD</display-name>
+	</channel>
 	<channel id="ts128">
 		<display-name>ETV Cinema</display-name>
+	</channel>
+	<channel id="ts688">
+		<display-name>Star Sports 1 Telugu</display-name>
 	</channel>
 	<channel id="ts1068">
 		<display-name>Star Sports 1 Telugu HD</display-name>
@@ -1299,17 +1305,20 @@
 	<channel id="ts360">
 		<display-name>Gemini Comedy</display-name>
 	</channel>
-	<channel id="ts688">
-		<display-name>Star Sports 1 Telugu</display-name>
-	</channel>
-	<channel id="ts252">
-		<display-name>Zee Cinemalu</display-name>
+	<channel id="ts1496">
+		<display-name>Star Sports 2 Telugu HD</display-name>
 	</channel>
 	<channel id="ts268">
 		<display-name>ETV Life</display-name>
 	</channel>
-	<channel id="ts1496">
-		<display-name>Star Sports 2 Telugu HD</display-name>
+	<channel id="ts146">
+		<display-name>ETV Andhra Pradesh</display-name>
+	</channel>
+	<channel id="ts596">
+		<display-name>Sakshi TV</display-name>
+	</channel>
+	<channel id="ts358">
+		<display-name>ETV Abhiruchi</display-name>
 	</channel>
 	<channel id="ts1192">
 		<display-name>SONY SPORTS TEN 4 Telugu</display-name>
@@ -1317,65 +1326,53 @@
 	<channel id="ts320">
 		<display-name>TV5 News</display-name>
 	</channel>
-	<channel id="ts146">
-		<display-name>ETV Andhra Pradesh</display-name>
+	<channel id="ts160">
+		<display-name>NTV Telugu</display-name>
 	</channel>
 	<channel id="ts11">
 		<display-name>TV9 Telugu</display-name>
 	</channel>
-	<channel id="ts596">
-		<display-name>Sakshi TV</display-name>
-	</channel>
-	<channel id="ts160">
-		<display-name>NTV Telugu</display-name>
-	</channel>
-	<channel id="ts358">
-		<display-name>ETV Abhiruchi</display-name>
-	</channel>
-	<channel id="ts274">
-		<display-name>V6 Telugu</display-name>
-	</channel>
-	<channel id="ts83">
-		<display-name>ETV Telangana</display-name>
+	<channel id="ts225">
+		<display-name>ABN Andhra Jyothy</display-name>
 	</channel>
 	<channel id="ts49">
 		<display-name>T News</display-name>
 	</channel>
-	<channel id="ts225">
-		<display-name>ABN Andhra Jyothy</display-name>
-	</channel>
-	<channel id="ts266">
-		<display-name>10 TV</display-name>
+	<channel id="ts274">
+		<display-name>V6 Telugu</display-name>
 	</channel>
 	<channel id="ts430">
 		<display-name>Raj News Telugu</display-name>
 	</channel>
-	<channel id="ts1099">
-		<display-name>Prime9 Plus</display-name>
+	<channel id="ts83">
+		<display-name>ETV Telangana</display-name>
 	</channel>
 	<channel id="ts349">
 		<display-name>HM TV</display-name>
 	</channel>
-	<channel id="ts1288">
-		<display-name>Zee Telugu News</display-name>
+	<channel id="ts266">
+		<display-name>10 TV</display-name>
 	</channel>
 	<channel id="ts1027">
 		<display-name>Swatantra TV</display-name>
 	</channel>
-	<channel id="ts774">
-		<display-name>4tv News</display-name>
+	<channel id="ts1100">
+		<display-name>BIG TV Telugu</display-name>
 	</channel>
 	<channel id="ts1194">
 		<display-name>BRK News</display-name>
 	</channel>
+	<channel id="ts1099">
+		<display-name>Prime9 Plus</display-name>
+	</channel>
+	<channel id="ts774">
+		<display-name>4tv News</display-name>
+	</channel>
+	<channel id="ts1288">
+		<display-name>Zee Telugu News</display-name>
+	</channel>
 	<channel id="ts1151">
 		<display-name>MAHAA NEWS</display-name>
-	</channel>
-	<channel id="ts1100">
-		<display-name>BIG TV Telugu</display-name>
-	</channel>
-	<channel id="ts363">
-		<display-name>Gemini Music</display-name>
 	</channel>
 	<channel id="ts337">
 		<display-name>DD Saptagiri</display-name>
@@ -1383,32 +1380,38 @@
 	<channel id="ts548">
 		<display-name>DD Yadagiri</display-name>
 	</channel>
-	<channel id="ts429">
-		<display-name>Raj Musix Telugu</display-name>
-	</channel>
-	<channel id="ts389">
-		<display-name>Star Maa Music</display-name>
+	<channel id="ts363">
+		<display-name>Gemini Music</display-name>
 	</channel>
 	<channel id="ts290">
 		<display-name>Bhakti TV</display-name>
 	</channel>
-	<channel id="ts445">
-		<display-name>Subhavaarta TV</display-name>
+	<channel id="ts389">
+		<display-name>Star Maa Music</display-name>
 	</channel>
-	<channel id="ts285">
-		<display-name>Aradana TV</display-name>
+	<channel id="ts429">
+		<display-name>Raj Musix Telugu</display-name>
 	</channel>
 	<channel id="ts351">
 		<display-name>Swara Sagar</display-name>
 	</channel>
-	<channel id="ts630">
-		<display-name>Hindu Dharmam</display-name>
+	<channel id="ts285">
+		<display-name>Aradana TV</display-name>
+	</channel>
+	<channel id="ts1378">
+		<display-name>Nireekshana TV</display-name>
 	</channel>
 	<channel id="ts1318">
 		<display-name>Calvary TV</display-name>
 	</channel>
-	<channel id="ts1378">
-		<display-name>Nireekshana TV</display-name>
+	<channel id="ts445">
+		<display-name>Subhavaarta TV</display-name>
+	</channel>
+	<channel id="ts630">
+		<display-name>Hindu Dharmam</display-name>
+	</channel>
+	<channel id="ts663">
+		<display-name>Tata Play Tamil Cinema</display-name>
 	</channel>
 	<channel id="ts165">
 		<display-name>Sun TV</display-name>
@@ -1416,8 +1419,8 @@
 	<channel id="ts450">
 		<display-name>SVBC Telugu</display-name>
 	</channel>
-	<channel id="ts663">
-		<display-name>Tata Play Tamil Cinema</display-name>
+	<channel id="ts474">
+		<display-name>Sun Life</display-name>
 	</channel>
 	<channel id="ts521">
 		<display-name>Sun TV HD</display-name>
@@ -1425,14 +1428,11 @@
 	<channel id="ts1260">
 		<display-name>Tata Play Tamil Classics</display-name>
 	</channel>
-	<channel id="ts474">
-		<display-name>Sun Life</display-name>
+	<channel id="ts496">
+		<display-name>Star Vijay HD</display-name>
 	</channel>
 	<channel id="ts527">
 		<display-name>STAR Vijay</display-name>
-	</channel>
-	<channel id="ts496">
-		<display-name>Star Vijay HD</display-name>
 	</channel>
 	<channel id="ts608">
 		<display-name>Zee Tamil HD</display-name>
@@ -1440,11 +1440,17 @@
 	<channel id="ts257">
 		<display-name>Zee Tamil</display-name>
 	</channel>
+	<channel id="ts1176">
+		<display-name>Vijay Super HD</display-name>
+	</channel>
+	<channel id="ts200">
+		<display-name>Kalaignar TV</display-name>
+	</channel>
 	<channel id="ts708">
 		<display-name>Jaya TV HD</display-name>
 	</channel>
-	<channel id="ts1176">
-		<display-name>Vijay Super HD</display-name>
+	<channel id="ts439">
+		<display-name>Raj TV</display-name>
 	</channel>
 	<channel id="ts275">
 		<display-name>Vijay Super</display-name>
@@ -1452,104 +1458,98 @@
 	<channel id="ts997">
 		<display-name>Tata Play Toons+</display-name>
 	</channel>
-	<channel id="ts200">
-		<display-name>Kalaignar TV</display-name>
-	</channel>
-	<channel id="ts499">
-		<display-name>Vasanth TV</display-name>
-	</channel>
 	<channel id="ts426">
 		<display-name>Raj Digital Plus</display-name>
-	</channel>
-	<channel id="ts37">
-		<display-name>Mega TV</display-name>
-	</channel>
-	<channel id="ts439">
-		<display-name>Raj TV</display-name>
 	</channel>
 	<channel id="ts99">
 		<display-name>D Tamil</display-name>
 	</channel>
+	<channel id="ts37">
+		<display-name>Mega TV</display-name>
+	</channel>
+	<channel id="ts499">
+		<display-name>Vasanth TV</display-name>
+	</channel>
 	<channel id="ts396">
 		<display-name>Mega 24</display-name>
-	</channel>
-	<channel id="ts611">
-		<display-name>Sirippoli</display-name>
 	</channel>
 	<channel id="ts272">
 		<display-name>Polimer TV</display-name>
 	</channel>
-	<channel id="ts421">
-		<display-name>Peppers TV</display-name>
-	</channel>
-	<channel id="ts1322">
-		<display-name>Thanthi One</display-name>
-	</channel>
-	<channel id="ts392">
-		<display-name>Makkal TV</display-name>
+	<channel id="ts611">
+		<display-name>Sirippoli</display-name>
 	</channel>
 	<channel id="ts659">
 		<display-name>Vendhar TV</display-name>
 	</channel>
-	<channel id="ts380">
-		<display-name>KTV HD</display-name>
+	<channel id="ts392">
+		<display-name>Makkal TV</display-name>
 	</channel>
 	<channel id="ts147">
 		<display-name>KTV</display-name>
 	</channel>
+	<channel id="ts421">
+		<display-name>Peppers TV</display-name>
+	</channel>
 	<channel id="ts1166">
 		<display-name>CHITHIRAM</display-name>
 	</channel>
-	<channel id="ts201">
-		<display-name>J Movies</display-name>
+	<channel id="ts380">
+		<display-name>KTV HD</display-name>
 	</channel>
-	<channel id="ts1182">
-		<display-name>Zee Thirai HD</display-name>
-	</channel>
-	<channel id="ts1067">
-		<display-name>Star Sports 1 Tamil HD</display-name>
-	</channel>
-	<channel id="ts1495">
-		<display-name>Star Sports 2 Tamil HD</display-name>
-	</channel>
-	<channel id="ts284">
-		<display-name>Adithya TV</display-name>
-	</channel>
-	<channel id="ts220">
-		<display-name>Puthiya Thalaimurai</display-name>
-	</channel>
-	<channel id="ts198">
-		<display-name>Jaya Plus</display-name>
-	</channel>
-	<channel id="ts509">
-		<display-name>Polimer News</display-name>
-	</channel>
-	<channel id="ts77">
-		<display-name>Star Sports 1 Tamil</display-name>
+	<channel id="ts1322">
+		<display-name>Thanthi One</display-name>
 	</channel>
 	<channel id="ts444">
 		<display-name>Travelxp Tamil</display-name>
 	</channel>
-	<channel id="ts914">
-		<display-name>SONY SPORTS TEN 4 Tamil</display-name>
+	<channel id="ts198">
+		<display-name>Jaya Plus</display-name>
+	</channel>
+	<channel id="ts1182">
+		<display-name>Zee Thirai HD</display-name>
 	</channel>
 	<channel id="ts443">
 		<display-name>Sun News</display-name>
 	</channel>
-	<channel id="ts797">
-		<display-name>Zee Thirai</display-name>
+	<channel id="ts58">
+		<display-name>News18 Tamil Nadu</display-name>
 	</channel>
 	<channel id="ts524">
 		<display-name>Thanthi TV</display-name>
 	</channel>
-	<channel id="ts58">
-		<display-name>News18 Tamil Nadu</display-name>
+	<channel id="ts509">
+		<display-name>Polimer News</display-name>
 	</channel>
-	<channel id="ts702">
-		<display-name>News J</display-name>
+	<channel id="ts201">
+		<display-name>J Movies</display-name>
+	</channel>
+	<channel id="ts797">
+		<display-name>Zee Thirai</display-name>
+	</channel>
+	<channel id="ts77">
+		<display-name>Star Sports 1 Tamil</display-name>
+	</channel>
+	<channel id="ts284">
+		<display-name>Adithya TV</display-name>
+	</channel>
+	<channel id="ts1067">
+		<display-name>Star Sports 1 Tamil HD</display-name>
+	</channel>
+	<channel id="ts220">
+		<display-name>Puthiya Thalaimurai</display-name>
+	</channel>
+	<channel id="ts914">
+		<display-name>SONY SPORTS TEN 4 Tamil</display-name>
+	</channel>
+	<channel id="ts1495">
+		<display-name>Star Sports 2 Tamil HD</display-name>
 	</channel>
 	<channel id="ts455">
 		<display-name>Sathiyam TV</display-name>
+	</channel>
+	<channel id="ts702">
+		<display-name>News J</display-name>
 	</channel>
 	<channel id="ts391">
 		<display-name>MalaiMurasu Seithigal</display-name>
@@ -1557,23 +1557,23 @@
 	<channel id="ts525">
 		<display-name>Raj News Tamil.</display-name>
 	</channel>
-	<channel id="ts44">
-		<display-name>Seithigal TV</display-name>
-	</channel>
-	<channel id="ts334">
-		<display-name>DD Tamil</display-name>
-	</channel>
-	<channel id="ts520">
-		<display-name>Sun Music HD</display-name>
-	</channel>
 	<channel id="ts1317">
 		<display-name>Tamil Janam</display-name>
+	</channel>
+	<channel id="ts44">
+		<display-name>Seithigal TV</display-name>
 	</channel>
 	<channel id="ts968">
 		<display-name>News Tamil 24x7</display-name>
 	</channel>
+	<channel id="ts334">
+		<display-name>DD Tamil</display-name>
+	</channel>
 	<channel id="ts199">
 		<display-name>Jaya Max</display-name>
+	</channel>
+	<channel id="ts520">
+		<display-name>Sun Music HD</display-name>
 	</channel>
 	<channel id="ts906">
 		<display-name>Vijay Takkar</display-name>
@@ -1590,53 +1590,50 @@
 	<channel id="ts411">
 		<display-name>Murasu TV</display-name>
 	</channel>
-	<channel id="ts400">
-		<display-name>Mega Musiq</display-name>
+	<channel id="ts390">
+		<display-name>Madha TV</display-name>
 	</channel>
 	<channel id="ts434">
 		<display-name>Jothi TV</display-name>
 	</channel>
-	<channel id="ts1324">
-		<display-name>Raj Nagaichuvai</display-name>
-	</channel>
-	<channel id="ts408">
-		<display-name>Nambikkai TV</display-name>
-	</channel>
-	<channel id="ts390">
-		<display-name>Madha TV</display-name>
+	<channel id="ts400">
+		<display-name>Mega Musiq</display-name>
 	</channel>
 	<channel id="ts1459">
 		<display-name>Tata Play Deiveegam</display-name>
 	</channel>
-	<channel id="ts785">
-		<display-name>Tata Play Kannada Cinema</display-name>
-	</channel>
 	<channel id="ts282">
 		<display-name>Angel TV</display-name>
 	</channel>
-	<channel id="ts1485">
-		<display-name>Village TV</display-name>
-	</channel>
-	<channel id="ts490">
-		<display-name>SVBC 2</display-name>
-	</channel>
-	<channel id="ts612">
-		<display-name>Colors Kannada HD</display-name>
+	<channel id="ts408">
+		<display-name>Nambikkai TV</display-name>
 	</channel>
 	<channel id="ts492">
 		<display-name>Udaya TV HD</display-name>
 	</channel>
-	<channel id="ts579">
-		<display-name>Star Suvarna</display-name>
+	<channel id="ts490">
+		<display-name>SVBC 2</display-name>
 	</channel>
-	<channel id="ts467">
-		<display-name>Star Suvarna HD</display-name>
+	<channel id="ts1324">
+		<display-name>Raj Nagaichuvai</display-name>
+	</channel>
+	<channel id="ts785">
+		<display-name>Tata Play Kannada Cinema</display-name>
+	</channel>
+	<channel id="ts1485">
+		<display-name>Village TV</display-name>
 	</channel>
 	<channel id="ts76">
 		<display-name>Udaya TV</display-name>
 	</channel>
-	<channel id="ts675">
-		<display-name>Zee Kannada HD</display-name>
+	<channel id="ts612">
+		<display-name>Colors Kannada HD</display-name>
+	</channel>
+	<channel id="ts467">
+		<display-name>Star Suvarna HD</display-name>
+	</channel>
+	<channel id="ts256">
+		<display-name>Zee Kannada</display-name>
 	</channel>
 	<channel id="ts533">
 		<display-name>Colors SUPER</display-name>
@@ -1644,11 +1641,23 @@
 	<channel id="ts940">
 		<display-name>SIRIKANNADA Alltime</display-name>
 	</channel>
+	<channel id="ts579">
+		<display-name>Star Suvarna</display-name>
+	</channel>
 	<channel id="ts491">
 		<display-name>Udaya Comedy</display-name>
 	</channel>
-	<channel id="ts256">
-		<display-name>Zee Kannada</display-name>
+	<channel id="ts231">
+		<display-name>Udaya Movies</display-name>
+	</channel>
+	<channel id="ts675">
+		<display-name>Zee Kannada HD</display-name>
+	</channel>
+	<channel id="ts810">
+		<display-name>Zee Power</display-name>
+	</channel>
+	<channel id="ts683">
+		<display-name>Star Sports 2 Kannada</display-name>
 	</channel>
 	<channel id="ts1181">
 		<display-name>Zee Power HD</display-name>
@@ -1656,35 +1665,35 @@
 	<channel id="ts661">
 		<display-name>Public Movies</display-name>
 	</channel>
-	<channel id="ts231">
-		<display-name>Udaya Movies</display-name>
-	</channel>
 	<channel id="ts690">
 		<display-name>Star Sports 1 Kannada</display-name>
 	</channel>
 	<channel id="ts152">
 		<display-name>TV9 Kannada</display-name>
 	</channel>
-	<channel id="ts810">
-		<display-name>Zee Power</display-name>
-	</channel>
 	<channel id="ts33">
 		<display-name>Public TV</display-name>
-	</channel>
-	<channel id="ts683">
-		<display-name>Star Sports 2 Kannada</display-name>
-	</channel>
-	<channel id="ts629">
-		<display-name>TV5 Kannada</display-name>
 	</channel>
 	<channel id="ts555">
 		<display-name>Asianet Suvarna News</display-name>
 	</channel>
-	<channel id="ts342">
-		<display-name>R Kannada</display-name>
+	<channel id="ts629">
+		<display-name>TV5 Kannada</display-name>
 	</channel>
 	<channel id="ts510">
 		<display-name>Raj News Kannada</display-name>
+	</channel>
+	<channel id="ts1488">
+		<display-name>Guarantee News</display-name>
+	</channel>
+	<channel id="ts824">
+		<display-name>Power TV</display-name>
+	</channel>
+	<channel id="ts342">
+		<display-name>R Kannada</display-name>
+	</channel>
+	<channel id="ts1287">
+		<display-name>Zee Kannada News</display-name>
 	</channel>
 	<channel id="ts913">
 		<display-name>News 1st Kannada</display-name>
@@ -1694,12 +1703,6 @@
 	</channel>
 	<channel id="ts442">
 		<display-name>Udaya Music</display-name>
-	</channel>
-	<channel id="ts824">
-		<display-name>Power TV</display-name>
-	</channel>
-	<channel id="ts1287">
-		<display-name>Zee Kannada News</display-name>
 	</channel>
 	<channel id="ts427">
 		<display-name>Raj Musix Kannada</display-name>
@@ -1713,23 +1716,17 @@
 	<channel id="ts660">
 		<display-name>Ayush TV</display-name>
 	</channel>
-	<channel id="ts1488">
-		<display-name>Guarantee News</display-name>
-	</channel>
 	<channel id="ts971">
 		<display-name>SVBC 3</display-name>
+	</channel>
+	<channel id="ts772">
+		<display-name>Tata Play Gujarati Cinema</display-name>
 	</channel>
 	<channel id="ts569">
 		<display-name>SVBC Kannada</display-name>
 	</channel>
 	<channel id="ts489">
 		<display-name>TV9 Gujarati</display-name>
-	</channel>
-	<channel id="ts772">
-		<display-name>Tata Play Gujarati Cinema</display-name>
-	</channel>
-	<channel id="ts73">
-		<display-name>ABP Asmita</display-name>
 	</channel>
 	<channel id="ts552">
 		<display-name>Gujarat Samachar TV</display-name>
@@ -1743,11 +1740,11 @@
 	<channel id="ts654">
 		<display-name>India News Gujarat</display-name>
 	</channel>
-	<channel id="ts1349">
-		<display-name>Tata Play Kartavya TV</display-name>
-	</channel>
 	<channel id="ts497">
 		<display-name>VTV News</display-name>
+	</channel>
+	<channel id="ts73">
+		<display-name>ABP Asmita</display-name>
 	</channel>
 	<channel id="ts507">
 		<display-name>Zee 24 Kalak</display-name>
@@ -1758,182 +1755,188 @@
 	<channel id="ts1286">
 		<display-name>News Capital</display-name>
 	</channel>
-	<channel id="ts1350">
-		<display-name>Tata Play Lakshya TV</display-name>
-	</channel>
 	<channel id="ts323">
 		<display-name>DD Girnar</display-name>
+	</channel>
+	<channel id="ts1350">
+		<display-name>Tata Play Lakshya TV</display-name>
 	</channel>
 	<channel id="ts1351">
 		<display-name>Tata Play Kalyan TV</display-name>
 	</channel>
-	<channel id="ts893">
-		<display-name>Tata Play Valam TV</display-name>
-	</channel>
 	<channel id="ts237">
 		<display-name>Tarang TV</display-name>
 	</channel>
-	<channel id="ts978">
-		<display-name>Sidharth TV</display-name>
+	<channel id="ts893">
+		<display-name>Tata Play Valam TV</display-name>
 	</channel>
-	<channel id="ts987">
-		<display-name>Star Kiran</display-name>
-	</channel>
-	<channel id="ts28">
-		<display-name>Alankar</display-name>
+	<channel id="ts1349">
+		<display-name>Tata Play Kartavya TV</display-name>
 	</channel>
 	<channel id="ts597">
 		<display-name>Zee Sarthak</display-name>
 	</channel>
-	<channel id="ts375">
-		<display-name>Kalinga TV</display-name>
+	<channel id="ts987">
+		<display-name>Star Kiran</display-name>
+	</channel>
+	<channel id="ts978">
+		<display-name>Sidharth TV</display-name>
 	</channel>
 	<channel id="ts376">
 		<display-name>Kanak News</display-name>
 	</channel>
-	<channel id="ts448">
-		<display-name>News7</display-name>
-	</channel>
 	<channel id="ts805">
 		<display-name>Nandighosha TV</display-name>
+	</channel>
+	<channel id="ts375">
+		<display-name>Kalinga TV</display-name>
+	</channel>
+	<channel id="ts28">
+		<display-name>Alankar</display-name>
 	</channel>
 	<channel id="ts1170">
 		<display-name>Sidharth GOLD</display-name>
 	</channel>
-	<channel id="ts333">
-		<display-name>DD Odia</display-name>
-	</channel>
-	<channel id="ts230">
-		<display-name>Surya TV</display-name>
-	</channel>
-	<channel id="ts1169">
-		<display-name>Jay Jagannath.</display-name>
+	<channel id="ts448">
+		<display-name>News7</display-name>
 	</channel>
 	<channel id="ts50">
 		<display-name>Tarang Music</display-name>
 	</channel>
+	<channel id="ts1169">
+		<display-name>Jay Jagannath.</display-name>
+	</channel>
+	<channel id="ts568">
+		<display-name>Prarthana Life</display-name>
+	</channel>
+	<channel id="ts230">
+		<display-name>Surya TV</display-name>
+	</channel>
+	<channel id="ts907">
+		<display-name>Argus News</display-name>
+	</channel>
+	<channel id="ts292">
+		<display-name>Asianet HD</display-name>
+	</channel>
+	<channel id="ts868">
+		<display-name>Tata Play Malayalam Cinema</display-name>
+	</channel>
+	<channel id="ts694">
+		<display-name>Zee Keralam HD</display-name>
+	</channel>
+	<channel id="ts479">
+		<display-name>Surya HD</display-name>
+	</channel>
+	<channel id="ts294">
+		<display-name>Asianet Plus</display-name>
+	</channel>
+	<channel id="ts289">
+		<display-name>Asianet</display-name>
+	</channel>
+	<channel id="ts333">
+		<display-name>DD Odia</display-name>
+	</channel>
 	<channel id="ts684">
 		<display-name>Zee Keralam</display-name>
 	</channel>
-	<channel id="ts294">
+	<channel id="ts953">
 		<display-name>Asianet Plus</display-name>
 	</channel>
 	<channel id="ts1026">
 		<display-name>Sidharth UTSAV</display-name>
 	</channel>
-	<channel id="ts292">
-		<display-name>Asianet HD</display-name>
-	</channel>
-	<channel id="ts479">
-		<display-name>Surya HD</display-name>
-	</channel>
-	<channel id="ts868">
-		<display-name>Tata Play Malayalam Cinema</display-name>
-	</channel>
-	<channel id="ts568">
-		<display-name>Prarthana Life</display-name>
-	</channel>
-	<channel id="ts289">
-		<display-name>Asianet</display-name>
-	</channel>
-	<channel id="ts907">
-		<display-name>Argus News</display-name>
-	</channel>
-	<channel id="ts694">
-		<display-name>Zee Keralam HD</display-name>
-	</channel>
-	<channel id="ts953">
-		<display-name>Asianet Plus</display-name>
-	</channel>
 	<channel id="ts10">
 		<display-name>Flowers</display-name>
-	</channel>
-	<channel id="ts25">
-		<display-name>Kairali TV</display-name>
-	</channel>
-	<channel id="ts31">
-		<display-name>Mazhavil Manorama</display-name>
 	</channel>
 	<channel id="ts395">
 		<display-name>Mazhavil Manorama HD</display-name>
 	</channel>
+	<channel id="ts31">
+		<display-name>Mazhavil Manorama</display-name>
+	</channel>
+	<channel id="ts25">
+		<display-name>Kairali TV</display-name>
+	</channel>
 	<channel id="ts178">
 		<display-name>Amrita TV</display-name>
-	</channel>
-	<channel id="ts553">
-		<display-name>We TV</display-name>
-	</channel>
-	<channel id="ts293">
-		<display-name>Asianet Movies</display-name>
-	</channel>
-	<channel id="ts933">
-		<display-name>Asianet Movies</display-name>
 	</channel>
 	<channel id="ts229">
 		<display-name>Surya Movies</display-name>
 	</channel>
-	<channel id="ts436">
-		<display-name>Safari TV</display-name>
+	<channel id="ts553">
+		<display-name>We TV</display-name>
 	</channel>
-	<channel id="ts532">
-		<display-name>Asianet News</display-name>
+	<channel id="ts933">
+		<display-name>Asianet Movies</display-name>
 	</channel>
 	<channel id="ts1173">
 		<display-name>Asianet Movies HD</display-name>
 	</channel>
-	<channel id="ts394">
-		<display-name>Mathrubhumi News</display-name>
+	<channel id="ts87">
+		<display-name>Manorama News</display-name>
+	</channel>
+	<channel id="ts436">
+		<display-name>Safari TV</display-name>
+	</channel>
+	<channel id="ts293">
+		<display-name>Asianet Movies</display-name>
 	</channel>
 	<channel id="ts481">
 		<display-name>Surya Comedy</display-name>
 	</channel>
-	<channel id="ts87">
-		<display-name>Manorama News</display-name>
+	<channel id="ts532">
+		<display-name>Asianet News</display-name>
 	</channel>
-	<channel id="ts211">
-		<display-name>Kairali News</display-name>
-	</channel>
-	<channel id="ts576">
-		<display-name>Media One</display-name>
-	</channel>
-	<channel id="ts370">
-		<display-name>Jaihind TV</display-name>
+	<channel id="ts394">
+		<display-name>Mathrubhumi News</display-name>
 	</channel>
 	<channel id="ts372">
 		<display-name>Jeevan TV</display-name>
 	</channel>
-	<channel id="ts428">
-		<display-name>Raj News Malayalam</display-name>
-	</channel>
-	<channel id="ts328">
-		<display-name>DD Malayalam</display-name>
+	<channel id="ts378">
+		<display-name>Kaumudy TV</display-name>
 	</channel>
 	<channel id="ts799">
 		<display-name>Twenty Four</display-name>
 	</channel>
-	<channel id="ts483">
-		<display-name>Surya Music</display-name>
-	</channel>
-	<channel id="ts1124">
-		<display-name>Reporter TV</display-name>
-	</channel>
-	<channel id="ts378">
-		<display-name>Kaumudy TV</display-name>
-	</channel>
 	<channel id="ts270">
 		<display-name>Janam TV</display-name>
 	</channel>
-	<channel id="ts1313">
-		<display-name>SHEKINAH</display-name>
+	<channel id="ts211">
+		<display-name>Kairali News</display-name>
 	</channel>
 	<channel id="ts1367">
 		<display-name>News Malayalam 24x7</display-name>
 	</channel>
-	<channel id="ts541">
-		<display-name>Raj Musix Malayalam</display-name>
+	<channel id="ts1313">
+		<display-name>SHEKINAH</display-name>
+	</channel>
+	<channel id="ts428">
+		<display-name>Raj News Malayalam</display-name>
+	</channel>
+	<channel id="ts370">
+		<display-name>Jaihind TV</display-name>
+	</channel>
+	<channel id="ts576">
+		<display-name>Media One</display-name>
+	</channel>
+	<channel id="ts1124">
+		<display-name>Reporter TV</display-name>
+	</channel>
+	<channel id="ts483">
+		<display-name>Surya Music</display-name>
+	</channel>
+	<channel id="ts328">
+		<display-name>DD Malayalam</display-name>
 	</channel>
 	<channel id="ts377">
 		<display-name>Kappa TV</display-name>
+	</channel>
+	<channel id="ts541">
+		<display-name>Raj Musix Malayalam</display-name>
+	</channel>
+	<channel id="ts348">
+		<display-name>Harvest TV 24x7</display-name>
 	</channel>
 	<channel id="ts269">
 		<display-name>Goodness</display-name>
@@ -1941,59 +1944,59 @@
 	<channel id="ts457">
 		<display-name>Shalom TV</display-name>
 	</channel>
-	<channel id="ts796">
-		<display-name>Zee Punjabi</display-name>
-	</channel>
-	<channel id="ts348">
-		<display-name>Harvest TV 24x7</display-name>
-	</channel>
-	<channel id="ts1364">
-		<display-name>Powervision</display-name>
-	</channel>
-	<channel id="ts122">
-		<display-name>PTC Punjabi</display-name>
-	</channel>
-	<channel id="ts399">
-		<display-name>MH One</display-name>
-	</channel>
 	<channel id="ts218">
 		<display-name>SVBC</display-name>
 	</channel>
 	<channel id="ts571">
 		<display-name>Tata Play Punjab De Rang</display-name>
 	</channel>
-	<channel id="ts624">
-		<display-name>Pitaara Movies</display-name>
-	</channel>
-	<channel id="ts998">
-		<display-name>Tata Play Toons+</display-name>
-	</channel>
-	<channel id="ts794">
-		<display-name>PTC Punjabi Gold</display-name>
-	</channel>
-	<channel id="ts91">
-		<display-name>PTC News</display-name>
-	</channel>
-	<channel id="ts366">
-		<display-name>India News Punjab</display-name>
-	</channel>
-	<channel id="ts232">
-		<display-name>News18 Punjab Haryana</display-name>
+	<channel id="ts1364">
+		<display-name>Powervision</display-name>
 	</channel>
 	<channel id="ts580">
 		<display-name>Zee Punjab Haryana Himachal Pradesh</display-name>
 	</channel>
+	<channel id="ts122">
+		<display-name>PTC Punjabi</display-name>
+	</channel>
+	<channel id="ts998">
+		<display-name>Tata Play Toons+</display-name>
+	</channel>
+	<channel id="ts624">
+		<display-name>Pitaara Movies</display-name>
+	</channel>
+	<channel id="ts796">
+		<display-name>Zee Punjabi</display-name>
+	</channel>
+	<channel id="ts399">
+		<display-name>MH One</display-name>
+	</channel>
+	<channel id="ts91">
+		<display-name>PTC News</display-name>
+	</channel>
+	<channel id="ts794">
+		<display-name>PTC Punjabi Gold</display-name>
+	</channel>
+	<channel id="ts232">
+		<display-name>News18 Punjab Haryana</display-name>
+	</channel>
+	<channel id="ts787">
+		<display-name>ANB NEWS</display-name>
+	</channel>
+	<channel id="ts366">
+		<display-name>India News Punjab</display-name>
+	</channel>
 	<channel id="ts13">
 		<display-name>India News Haryana</display-name>
-	</channel>
-	<channel id="ts401">
-		<display-name>MH One News</display-name>
 	</channel>
 	<channel id="ts371">
 		<display-name>Janta TV</display-name>
 	</channel>
-	<channel id="ts787">
-		<display-name>ANB NEWS</display-name>
+	<channel id="ts1411">
+		<display-name>News State Punjab Haryana Himachal</display-name>
+	</channel>
+	<channel id="ts401">
+		<display-name>MH One News</display-name>
 	</channel>
 	<channel id="ts972">
 		<display-name>Khabar Fast</display-name>
@@ -2001,26 +2004,23 @@
 	<channel id="ts793">
 		<display-name>Living India News</display-name>
 	</channel>
-	<channel id="ts1411">
-		<display-name>News State Punjab Haryana Himachal</display-name>
-	</channel>
-	<channel id="ts335">
-		<display-name>DD Punjabi</display-name>
-	</channel>
-	<channel id="ts989">
-		<display-name>STV Haryana News</display-name>
-	</channel>
 	<channel id="ts262">
 		<display-name>Zee Delhi NCR Haryana</display-name>
 	</channel>
 	<channel id="ts1078">
 		<display-name>Daily Post Punjab Haryana Himachal</display-name>
 	</channel>
-	<channel id="ts1212">
-		<display-name>DD Haryana</display-name>
+	<channel id="ts989">
+		<display-name>STV Haryana News</display-name>
+	</channel>
+	<channel id="ts335">
+		<display-name>DD Punjabi</display-name>
 	</channel>
 	<channel id="ts1217">
 		<display-name>DD Himachal</display-name>
+	</channel>
+	<channel id="ts1212">
+		<display-name>DD Haryana</display-name>
 	</channel>
 	<channel id="ts92">
 		<display-name>PTC Chak De</display-name>
@@ -2028,62 +2028,59 @@
 	<channel id="ts922">
 		<display-name>PTC Music</display-name>
 	</channel>
+	<channel id="ts193">
+		<display-name>Chardikla Time TV</display-name>
+	</channel>
 	<channel id="ts773">
 		<display-name>PTC Simran</display-name>
 	</channel>
 	<channel id="ts214">
 		<display-name>Rengoni TV</display-name>
 	</channel>
-	<channel id="ts193">
-		<display-name>Chardikla Time TV</display-name>
-	</channel>
-	<channel id="ts1047">
-		<display-name>SPONDON</display-name>
-	</channel>
 	<channel id="ts567">
 		<display-name>Nepal 1</display-name>
-	</channel>
-	<channel id="ts1352">
-		<display-name>Pear TV</display-name>
 	</channel>
 	<channel id="ts101">
 		<display-name>Rang</display-name>
 	</channel>
+	<channel id="ts1047">
+		<display-name>SPONDON</display-name>
+	</channel>
+	<channel id="ts1352">
+		<display-name>Pear TV</display-name>
+	</channel>
 	<channel id="ts1082">
 		<display-name>Tata Play Asomiya Monoronjan</display-name>
-	</channel>
-	<channel id="ts1484">
-		<display-name>Assam Talks</display-name>
-	</channel>
-	<channel id="ts68">
-		<display-name>News18 Assam North East</display-name>
-	</channel>
-	<channel id="ts221">
-		<display-name>Protidin Time</display-name>
-	</channel>
-	<channel id="ts417">
-		<display-name>North East Live</display-name>
 	</channel>
 	<channel id="ts29">
 		<display-name>Assam Talks</display-name>
 	</channel>
-	<channel id="ts423">
-		<display-name>Prag News</display-name>
+	<channel id="ts1484">
+		<display-name>Assam Talks</display-name>
 	</channel>
 	<channel id="ts226">
 		<display-name>NEWS LIVE</display-name>
 	</channel>
-	<channel id="ts894">
-		<display-name>NKTV PLUS</display-name>
-	</channel>
-	<channel id="ts1268">
-		<display-name>NE NEWS</display-name>
-	</channel>
 	<channel id="ts353">
 		<display-name>DY 365</display-name>
 	</channel>
+	<channel id="ts221">
+		<display-name>Protidin Time</display-name>
+	</channel>
+	<channel id="ts68">
+		<display-name>News18 Assam North East</display-name>
+	</channel>
+	<channel id="ts423">
+		<display-name>Prag News</display-name>
+	</channel>
+	<channel id="ts417">
+		<display-name>North East Live</display-name>
+	</channel>
 	<channel id="ts898">
 		<display-name>Hornbill TV</display-name>
+	</channel>
+	<channel id="ts894">
+		<display-name>NKTV PLUS</display-name>
 	</channel>
 	<channel id="ts1076">
 		<display-name>Asom Live 24</display-name>
@@ -2091,92 +2088,89 @@
 	<channel id="ts833">
 		<display-name>DD Port Blair</display-name>
 	</channel>
-	<channel id="ts331">
-		<display-name>DD North East</display-name>
-	</channel>
-	<channel id="ts758">
-		<display-name>DD Arunprabha</display-name>
+	<channel id="ts1268">
+		<display-name>NE NEWS</display-name>
 	</channel>
 	<channel id="ts329">
 		<display-name>DD Manipur</display-name>
 	</channel>
-	<channel id="ts325">
-		<display-name>DD Kashir</display-name>
+	<channel id="ts758">
+		<display-name>DD Arunprabha</display-name>
+	</channel>
+	<channel id="ts331">
+		<display-name>DD North East</display-name>
 	</channel>
 	<channel id="ts1302">
 		<display-name>Decode - Data</display-name>
 	</channel>
-	<channel id="ts449">
-		<display-name>Ramdhenu</display-name>
-	</channel>
-	<channel id="ts991">
-		<display-name>DD Meghalaya</display-name>
-	</channel>
-	<channel id="ts1210">
-		<display-name>DD Tripura</display-name>
-	</channel>
-	<channel id="ts1214">
-		<display-name>DD Nagaland</display-name>
+	<channel id="ts325">
+		<display-name>DD Kashir</display-name>
 	</channel>
 	<channel id="ts1278">
 		<display-name>Prime TV</display-name>
 	</channel>
+	<channel id="ts991">
+		<display-name>DD Meghalaya</display-name>
+	</channel>
 	<channel id="ts1215">
 		<display-name>DD Goa</display-name>
-	</channel>
-	<channel id="ts1281">
-		<display-name>Samachar 24 News</display-name>
-	</channel>
-	<channel id="ts1277">
-		<display-name>Nav Tej TV</display-name>
-	</channel>
-	<channel id="ts1285">
-		<display-name>Sana TV</display-name>
-	</channel>
-	<channel id="ts930">
-		<display-name>Buletin India</display-name>
-	</channel>
-	<channel id="ts1284">
-		<display-name>Sana Plus TV</display-name>
 	</channel>
 	<channel id="ts1211">
 		<display-name>DD Mizoram</display-name>
 	</channel>
+	<channel id="ts1285">
+		<display-name>Sana TV</display-name>
+	</channel>
+	<channel id="ts1277">
+		<display-name>Nav Tej TV</display-name>
+	</channel>
 	<channel id="ts849">
 		<display-name>Kashi Vishwanath Temple, Varanasi</display-name>
 	</channel>
-	<channel id="ts791">
-		<display-name>Fateh TV</display-name>
+	<channel id="ts449">
+		<display-name>Ramdhenu</display-name>
+	</channel>
+	<channel id="ts1210">
+		<display-name>DD Tripura</display-name>
+	</channel>
+	<channel id="ts1281">
+		<display-name>Samachar 24 News</display-name>
+	</channel>
+	<channel id="ts930">
+		<display-name>Buletin India</display-name>
+	</channel>
+	<channel id="ts1214">
+		<display-name>DD Nagaland</display-name>
+	</channel>
+	<channel id="ts1284">
+		<display-name>Sana Plus TV</display-name>
 	</channel>
 	<channel id="ts807">
 		<display-name>In Goa 24x7</display-name>
 	</channel>
-	<channel id="ts819">
-		<display-name>RDX Goa</display-name>
+	<channel id="ts782">
+		<display-name>Namma TV</display-name>
+	</channel>
+	<channel id="ts791">
+		<display-name>Fateh TV</display-name>
+	</channel>
+	<channel id="ts781">
+		<display-name>Prudent</display-name>
 	</channel>
 	<channel id="ts912">
 		<display-name>Haryana Beats</display-name>
+	</channel>
+	<channel id="ts865">
+		<display-name>Bangla Bhakti</display-name>
+	</channel>
+	<channel id="ts819">
+		<display-name>RDX Goa</display-name>
 	</channel>
 	<channel id="ts821">
 		<display-name>Headlines Tripura</display-name>
 	</channel>
 	<channel id="ts1290">
 		<display-name>TVRI World</display-name>
-	</channel>
-	<channel id="ts781">
-		<display-name>Prudent</display-name>
-	</channel>
-	<channel id="ts887">
-		<display-name>Garv Gurbani</display-name>
-	</channel>
-	<channel id="ts782">
-		<display-name>Namma TV</display-name>
-	</channel>
-	<channel id="ts908">
-		<display-name>Nimbark TV</display-name>
-	</channel>
-	<channel id="ts865">
-		<display-name>Bangla Bhakti</display-name>
 	</channel>
 	<channel id="ts866">
 		<display-name>Tara News</display-name>
@@ -2190,29 +2184,38 @@
 	<channel id="ts910">
 		<display-name>C News Bharat</display-name>
 	</channel>
-	<channel id="ts1371">
-		<display-name>BVG</display-name>
+	<channel id="ts887">
+		<display-name>Garv Gurbani</display-name>
+	</channel>
+	<channel id="ts908">
+		<display-name>Nimbark TV</display-name>
 	</channel>
 	<channel id="ts1372">
 		<display-name>Bhaktisagar</display-name>
 	</channel>
-	<channel id="ts1257">
-		<display-name>Sangam TV</display-name>
-	</channel>
-	<channel id="ts1381">
-		<display-name>ANANDHAM TV</display-name>
-	</channel>
 	<channel id="ts1255">
 		<display-name>Update India</display-name>
 	</channel>
-	<channel id="ts1254">
-		<display-name>National News Live</display-name>
+	<channel id="ts842">
+		<display-name>Somnath Temple</display-name>
+	</channel>
+	<channel id="ts1257">
+		<display-name>Sangam TV</display-name>
 	</channel>
 	<channel id="ts1256">
 		<display-name>Oye Music</display-name>
 	</channel>
-	<channel id="ts842">
-		<display-name>Somnath Temple</display-name>
+	<channel id="ts1371">
+		<display-name>BVG</display-name>
+	</channel>
+	<channel id="ts1254">
+		<display-name>National News Live</display-name>
+	</channel>
+	<channel id="ts931">
+		<display-name>Green Chillies TV</display-name>
+	</channel>
+	<channel id="ts1381">
+		<display-name>ANANDHAM TV</display-name>
 	</channel>
 	<channel id="ts841">
 		<display-name>Mahakaleshwar Temple, Ujjain</display-name>
@@ -2223,11 +2226,11 @@
 	<channel id="ts1382">
 		<display-name>DHARSAN TV</display-name>
 	</channel>
+	<channel id="ts1338">
+		<display-name>TV 45 News</display-name>
+	</channel>
 	<channel id="ts1336">
 		<display-name>Shresthbharat TV</display-name>
-	</channel>
-	<channel id="ts931">
-		<display-name>Green Chillies TV</display-name>
 	</channel>
 	<channel id="ts892">
 		<display-name>Samara News</display-name>
@@ -2235,17 +2238,8 @@
 	<channel id="ts1334">
 		<display-name>KBC News</display-name>
 	</channel>
-	<channel id="ts1338">
-		<display-name>TV 45 News</display-name>
-	</channel>
 	<channel id="ts1335">
 		<display-name>Shiksha TV</display-name>
-	</channel>
-	<channel id="ts1333">
-		<display-name>ABC News</display-name>
-	</channel>
-	<channel id="ts1753">
-		<display-name>Zee Cinema Geo</display-name>
 	</channel>
 	<channel id="ts1332">
 		<display-name>AB STAR News</display-name>
@@ -2253,14 +2247,11 @@
 	<channel id="ts947">
 		<display-name>Live Patna Sahib Patna</display-name>
 	</channel>
-	<channel id="ts1002">
-		<display-name>Saileela TV</display-name>
+	<channel id="ts1333">
+		<display-name>ABC News</display-name>
 	</channel>
-	<channel id="ts960">
-		<display-name>Atmadarshan</display-name>
-	</channel>
-	<channel id="ts962">
-		<display-name>ANN News</display-name>
+	<channel id="ts1753">
+		<display-name>Zee Cinema Geo</display-name>
 	</channel>
 	<channel id="ts1004">
 		<display-name>Shri Ganga Aarti, Varanasi</display-name>
@@ -2268,26 +2259,29 @@
 	<channel id="ts1337">
 		<display-name>Sristi TV</display-name>
 	</channel>
-	<channel id="ts1007">
-		<display-name>Shri Ashtavinayak Mahaganpati, Ranjangaon</display-name>
+	<channel id="ts1023">
+		<display-name>Daiji World TV</display-name>
+	</channel>
+	<channel id="ts960">
+		<display-name>Atmadarshan</display-name>
+	</channel>
+	<channel id="ts1002">
+		<display-name>Saileela TV</display-name>
+	</channel>
+	<channel id="ts962">
+		<display-name>ANN News</display-name>
 	</channel>
 	<channel id="ts1008">
 		<display-name>Shri ISKCON Girgaon, Mumbai</display-name>
 	</channel>
-	<channel id="ts1060">
-		<display-name>Live Punjabi</display-name>
-	</channel>
-	<channel id="ts1023">
-		<display-name>Daiji World TV</display-name>
-	</channel>
-	<channel id="ts1058">
-		<display-name>Aaj Ki Khabar</display-name>
+	<channel id="ts1007">
+		<display-name>Shri Ashtavinayak Mahaganpati, Ranjangaon</display-name>
 	</channel>
 	<channel id="ts1018">
 		<display-name>Real News Kerala</display-name>
 	</channel>
-	<channel id="ts1386">
-		<display-name>NTV</display-name>
+	<channel id="ts1060">
+		<display-name>Live Punjabi</display-name>
 	</channel>
 	<channel id="ts1059">
 		<display-name>Indian News</display-name>
@@ -2298,38 +2292,38 @@
 	<channel id="ts1079">
 		<display-name>TTN 24</display-name>
 	</channel>
-	<channel id="ts1203">
-		<display-name>India 24x7</display-name>
+	<channel id="ts1058">
+		<display-name>Aaj Ki Khabar</display-name>
 	</channel>
-	<channel id="ts1205">
-		<display-name>Lokmanch</display-name>
-	</channel>
-	<channel id="ts1206">
-		<display-name>LNI</display-name>
+	<channel id="ts1386">
+		<display-name>NTV</display-name>
 	</channel>
 	<channel id="ts1204">
 		<display-name>Kalinga Bharat</display-name>
 	</channel>
-	<channel id="ts1208">
-		<display-name>Rajya 24</display-name>
-	</channel>
 	<channel id="ts1171">
 		<display-name>Shree Ichchhapuran Balaji Mandir</display-name>
+	</channel>
+	<channel id="ts1205">
+		<display-name>Lokmanch</display-name>
+	</channel>
+	<channel id="ts1203">
+		<display-name>India 24x7</display-name>
 	</channel>
 	<channel id="ts1209">
 		<display-name>Samrat News</display-name>
 	</channel>
-	<channel id="ts1245">
-		<display-name>National Today 24x7</display-name>
+	<channel id="ts1206">
+		<display-name>LNI</display-name>
+	</channel>
+	<channel id="ts1208">
+		<display-name>Rajya 24</display-name>
 	</channel>
 	<channel id="ts1247">
 		<display-name>35 MM</display-name>
 	</channel>
-	<channel id="ts1252">
-		<display-name>Haryana Buzz</display-name>
-	</channel>
-	<channel id="ts1383">
-		<display-name>NIJAM TV</display-name>
+	<channel id="ts1245">
+		<display-name>National Today 24x7</display-name>
 	</channel>
 	<channel id="ts1246">
 		<display-name>Vande Bharat News</display-name>
@@ -2337,32 +2331,44 @@
 	<channel id="ts1242">
 		<display-name>In24 News</display-name>
 	</channel>
+	<channel id="ts1252">
+		<display-name>Haryana Buzz</display-name>
+	</channel>
+	<channel id="ts1383">
+		<display-name>NIJAM TV</display-name>
+	</channel>
 	<channel id="ts1253">
 		<display-name>Jeewan Bhakti</display-name>
-	</channel>
-	<channel id="ts1388">
-		<display-name>UTV</display-name>
-	</channel>
-	<channel id="ts1392">
-		<display-name>Sadvidya</display-name>
-	</channel>
-	<channel id="ts1391">
-		<display-name>Bhakthi Siri</display-name>
-	</channel>
-	<channel id="ts1384">
-		<display-name>SURIYAN TV</display-name>
 	</channel>
 	<channel id="ts1387">
 		<display-name>R TV</display-name>
 	</channel>
-	<channel id="ts1385">
-		<display-name>SUBIN TV</display-name>
+	<channel id="ts1384">
+		<display-name>SURIYAN TV</display-name>
+	</channel>
+	<channel id="ts1391">
+		<display-name>Bhakthi Siri</display-name>
+	</channel>
+	<channel id="ts1388">
+		<display-name>UTV</display-name>
 	</channel>
 	<channel id="ts1393">
 		<display-name>In24 Live News</display-name>
 	</channel>
+	<channel id="ts1448">
+		<display-name>24Hrs TV</display-name>
+	</channel>
+	<channel id="ts1392">
+		<display-name>Sadvidya</display-name>
+	</channel>
+	<channel id="ts1385">
+		<display-name>SUBIN TV</display-name>
+	</channel>
 	<channel id="ts1447">
 		<display-name>Garvi Gujarat Gujarati</display-name>
+	</channel>
+	<channel id="ts1445">
+		<display-name>Tar TV</display-name>
 	</channel>
 	<channel id="ts1460">
 		<display-name>BHI Channel</display-name>
@@ -2370,104 +2376,83 @@
 	<channel id="ts1462">
 		<display-name>22 Scope</display-name>
 	</channel>
-	<channel id="ts1461">
-		<display-name>News Ground 24x7</display-name>
-	</channel>
-	<channel id="ts1448">
-		<display-name>24Hrs TV</display-name>
-	</channel>
-	<channel id="ts1445">
-		<display-name>Tar TV</display-name>
+	<channel id="ts1754">
+		<display-name>Dagdusheth Pune</display-name>
 	</channel>
 	<channel id="ts1463">
 		<display-name>Express News Bharat</display-name>
 	</channel>
-	<channel id="ts1470">
-		<display-name>News Nation 81</display-name>
-	</channel>
-	<channel id="ts1754">
-		<display-name>Dagdusheth Pune</display-name>
-	</channel>
-	<channel id="ts1468">
-		<display-name>NAVSARJAN SANSKRUTI GUJARATI</display-name>
-	</channel>
-	<channel id="ts1092">
-		<display-name>Test Service 4101</display-name>
+	<channel id="ts1461">
+		<display-name>News Ground 24x7</display-name>
 	</channel>
 	<channel id="ts944">
 		<display-name>Live Iskcon Vrindavan</display-name>
 	</channel>
+	<channel id="ts1470">
+		<display-name>News Nation 81</display-name>
+	</channel>
+	<channel id="ts1468">
+		<display-name>NAVSARJAN SANSKRUTI GUJARATI</display-name>
+	</channel>
 	<channel id="ts1744">
 		<display-name>Zee Cinema Geo</display-name>
 	</channel>
-	<channel id="ts1788">
-		<display-name>S India News</display-name>
-	</channel>
-	<channel id="ts1310">
-		<display-name>SS 1 HD Geo</display-name>
-	</channel>
-	<channel id="ts1789">
-		<display-name>KM News</display-name>
+	<channel id="ts1092">
+		<display-name>Test Service 4101</display-name>
 	</channel>
 	<channel id="ts1309">
 		<display-name>SS1 HD Hindi Geo</display-name>
 	</channel>
-	<channel id="ts1740">
-		<display-name>Alias-2 of 2714</display-name>
+	<channel id="ts1789">
+		<display-name>KM News</display-name>
 	</channel>
-	<channel id="ts1795">
-		<display-name>Aagaaz Times</display-name>
-	</channel>
-	<channel id="ts1311">
-		<display-name>SS 1 Hindi Geo</display-name>
-	</channel>
-	<channel id="ts1739">
-		<display-name>Alias-3 of 2714</display-name>
-	</channel>
-	<channel id="ts1797">
-		<display-name>Smriti Patra</display-name>
-	</channel>
-	<channel id="ts1742">
-		<display-name>OSD - 1</display-name>
-	</channel>
-	<channel id="ts1790">
-		<display-name>National TV India</display-name>
-	</channel>
-	<channel id="ts1312">
-		<display-name>SS 1 Geo</display-name>
-	</channel>
-	<channel id="ts1796">
-		<display-name>Voice TV Urdu</display-name>
+	<channel id="ts1788">
+		<display-name>S India News</display-name>
 	</channel>
 	<channel id="ts1741">
 		<display-name>Alias-1 of 2714</display-name>
 	</channel>
+	<channel id="ts1797">
+		<display-name>Smriti Patra</display-name>
+	</channel>
+	<channel id="ts1310">
+		<display-name>SS 1 HD Geo</display-name>
+	</channel>
+	<channel id="ts1796">
+		<display-name>Voice TV Urdu</display-name>
+	</channel>
+	<channel id="ts1740">
+		<display-name>Alias-2 of 2714</display-name>
+	</channel>
 	<channel id="ts1747">
 		<display-name>Alias Service 1543</display-name>
 	</channel>
-	<channel id="ts1734">
-		<display-name>OSD - 3</display-name>
+	<channel id="ts1312">
+		<display-name>SS 1 Geo</display-name>
 	</channel>
-	<channel id="ts1450">
-		<display-name>OSD Binge 1</display-name>
+	<channel id="ts1742">
+		<display-name>OSD - 1</display-name>
 	</channel>
-	<channel id="ts1738">
-		<display-name>OSD - 2</display-name>
+	<channel id="ts1795">
+		<display-name>Aagaaz Times</display-name>
+	</channel>
+	<channel id="ts1790">
+		<display-name>National TV India</display-name>
+	</channel>
+	<channel id="ts1739">
+		<display-name>Alias-3 of 2714</display-name>
+	</channel>
+	<channel id="ts1311">
+		<display-name>SS 1 Hindi Geo</display-name>
+	</channel>
+	<channel id="ts1737">
+		<display-name>Alias-1 of 2715</display-name>
 	</channel>
 	<channel id="ts1736">
 		<display-name>Alias-2 of 2715</display-name>
 	</channel>
-	<channel id="ts1730">
-		<display-name>OSD-1</display-name>
-	</channel>
-	<channel id="ts1451">
-		<display-name>OSD Binge 2</display-name>
-	</channel>
-	<channel id="ts1732">
-		<display-name>Alias-2 of 2725</display-name>
-	</channel>
-	<channel id="ts1454">
-		<display-name>OSD Binge 5</display-name>
+	<channel id="ts1738">
+		<display-name>OSD - 2</display-name>
 	</channel>
 	<channel id="ts1735">
 		<display-name>Alias-3 of 2715</display-name>
@@ -2475,17 +2460,32 @@
 	<channel id="ts1733">
 		<display-name>Alias-1 of 2725</display-name>
 	</channel>
-	<channel id="ts1453">
-		<display-name>OSD Binge 4</display-name>
+	<channel id="ts1734">
+		<display-name>OSD - 3</display-name>
 	</channel>
-	<channel id="ts1737">
-		<display-name>Alias-1 of 2715</display-name>
+	<channel id="ts1732">
+		<display-name>Alias-2 of 2725</display-name>
+	</channel>
+	<channel id="ts1730">
+		<display-name>OSD-1</display-name>
+	</channel>
+	<channel id="ts1454">
+		<display-name>OSD Binge 5</display-name>
+	</channel>
+	<channel id="ts1451">
+		<display-name>OSD Binge 2</display-name>
 	</channel>
 	<channel id="ts1452">
 		<display-name>OSD Binge 3</display-name>
 	</channel>
+	<channel id="ts1450">
+		<display-name>OSD Binge 1</display-name>
+	</channel>
 	<channel id="ts1729">
 		<display-name>OSD-2</display-name>
+	</channel>
+	<channel id="ts1453">
+		<display-name>OSD Binge 4</display-name>
 	</channel>
 	<channel id="ts1752">
 		<display-name>Delta 140823_21.0</display-name>
